@@ -43,6 +43,13 @@
 | alpaca-chinese |  alpaca-chinese-52k.json | 包含了52k英文和中文的数据 |
 
 
+### 维护成员列表
+
+|       编号       |       行号        |      维护成员       |     进度      |
+|:--------------:|:---------------:|:---------------:|:-----------:|
+| 1 |    1 ~ 8000     | [OpenChinese](https://github.com/open-chinese) | ![](https://geps.dev/progress/10) |
+
+
 ### 一些修改说明
 
 **Case1** 成语：有一些sample，直译后需要进行二次改写，例如成语类的
