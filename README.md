@@ -54,6 +54,7 @@
 |       编号       |       文件        |                维护成员                 |     进度      |
 |:--------------:|:-------------------------:|:------------------------------------------------------------------------:|:---------------------:|
 | 0 |  [./data/alpaca_chinese_part_0.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_0.json)| [OpenChinese](https://github.com/open-chinese) | ![](https://geps.dev/progress/100) |
+| 2 |  [./data/alpaca_chinese_part_1.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_1.json) |[OpenChinese](https://github.com/open-chinese) | ![](https://geps.dev/progress/100) |
 | 2 |  [./data/alpaca_chinese_part_2.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_2.json) |[OpenChinese](https://github.com/open-chinese) | ![](https://geps.dev/progress/50) |
 | 3 |  [./data/alpaca_chinese_part_3.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_3.json) | 等待认领 | ![](https://geps.dev/progress/0) |
 | 4 |  [./data/alpaca_chinese_part_4.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_4.json) | 等待认领 | ![](https://geps.dev/progress/0) |
