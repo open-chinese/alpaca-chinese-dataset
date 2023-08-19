@@ -46,6 +46,10 @@
 
 ### 维护成员列表
 
+在上述【数据集说明】中提到，数据集的英文和中文内容仍然存在一些问题，为了提升数据集质量，将52002个sample数据集拆分为53个split的json文件，感兴趣的朋友可以认领部分文件的维护，并接受pull request来更新数据文件。
+目标是希望将英文和中文两个数据集都提高到人工生成的数据集质量水平。
+
+
 |       编号       |       文件        |                维护成员                 |     进度      |
 |:--------------:|:-------------------------:|:------------------------------------------------------------------------:|:---------------------:|
 | 0 |  [./data/alpaca_chinese_part_0.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_0.json)| [OpenChinese](https://github.com/open-chinese) | ![](https://geps.dev/progress/100) |
