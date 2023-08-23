@@ -269,7 +269,7 @@
         "en_input": "The students completed their assignment soon.",
         "input": "学生们很快就完成了作业。",
         "en_output": "The students quickly finished their assignment.",
-        "output": "学生们很快就完成了作业。"
+        "output": "很快地，学生们完成了作业。"
     },
     {
         "en_instruction": "Summarize the article about learning from failure.",
@@ -309,7 +309,7 @@
         "en_input": "",
         "input": "",
         "en_output": "One use case for using a GPT language model is automatic summarization of articles or documents. GPT models are able to generate summary text based on a given input, creating accurate and concise summaries in a fraction of the time it would take a human to do it manually.",
-        "output": "使用 GPT 语言模型的一个用例是文章或文档的自动摘要。GPT 模型能够根据给定的输入生成摘要文本，在人工手动完成的一小部分时间内创建准确简洁的摘要。"
+        "output": "使用GPT语言模型的一个用例是文章或文档的自动摘要。GPT模型能够根据给定的输入生成摘要文本，在人工手动完成的一小部分时间内创建准确简洁的摘要。"
     },
     {
         "en_instruction": "Provide a way to classify tweets according to the sentiment.",
@@ -329,11 +329,11 @@
     },
     {
         "en_instruction": "Come up with a step-by-step guide for setting up a website.",
-        "instruction": "提出设置网站的分步指南。",
+        "instruction": "如何一步一步地搭建一个网站？",
         "en_input": "",
         "input": "",
         "en_output": "Step-by-Step Guide for Setting Up a Website:\n1. Choose a web hosting provider.\n2. Select a domain name.\n3. Create your website content.\n4. Register and configure a hosting plan.\n5. Install and configure a content management system (CMS).\n6. Design the layout and add content to your website.\n7. Test your website and set up analytics. \n8. Launch your website.",
-        "output": "设置网站的分步指南：\n1. 选择网络托管服务提供商。\n2. 选择一个域名。\n3. 创建您的网站内容。\n4. 注册并配置托管计划。\n5. 安装和配置内容管理系统 （CMS）。\n6. 设计布局并向您的网站添加内容。\n7. 测试您的网站并设置分析。\n8. 启动您的网站。"
+        "output": "搭建一个网站地步骤如下：\n1. 选择网络托管服务提供商。\n2. 选择一个域名。\n3. 创建您的网站内容。\n4. 注册并配置托管计划。\n5. 安装和配置内容管理系统 （CMS）。\n6. 设计布局并向您的网站添加内容。\n7. 测试您的网站并设置分析。\n8. 启动您的网站。"
     },
     {
         "en_instruction": "How do you think technology has impacted the way people learn?",
@@ -376,16 +376,16 @@
         "output": "在人工智能中使用机器学习的优点是，它使机器能够更高效、更准确地学习和处理数据。它还允许完成更复杂的任务，例如提供更准确的客户服务。此外，机器学习算法可以随着时间的推移而改进，因为它们会观察和学习数据。另一方面，一些缺点可能包括高计算成本、数据偏差以及机器被用于恶意目的的可能性。机器也有可能“过度学习”或被太多数据淹没。"
     },
     {
-        "en_instruction": "Rewrite the following sentence in better English style: \"This is the most awesomest thing ever!\".",
-        "instruction": "用更好的英语风格重写以下句子：“这是有史以来最棒的事情！",
+        "en_instruction": "Rewrite the following sentence in better English style.",
+        "instruction": "改下以下中文句子，使其更加自然。",
         "en_input": "This is the most awesomest thing ever!",
-        "input": "这是有史以来最棒的事情！",
+        "input": "这有史来很棒事情！",
         "en_output": "This is the most awesome thing ever!",
         "output": "这是有史以来最棒的事情！"
     },
     {
         "en_instruction": "Come up with a creative way to market a new business.",
-        "instruction": "想出一种创造性的方式来营销新业务。",
+        "instruction": "提出一种创造性的营销新业务的方式。",
         "en_input": "",
         "input": "",
         "en_output": "There are a few creative approaches to marketing a new business. You could create a buzz online by launching a website, using social media, creating a blog, and engaging with customers through email campaigns. You could also reach out to customers directly with a direct mail campaign or distribute flyers to the local community. Additionally, hosting promotional events like giveaways, competitions and workshops are great ways to get people talking about your business and make it stand out.",
@@ -405,7 +405,7 @@
         "en_input": "",
         "input": "",
         "en_output": "Python is a great language for data science because of its readability, syntax simplicity and wide range of libraries available for use. Python also is an interactive language, which makes it easy for data scientists to analyze and manipulate data sets quickly. Also, since Python is free and open-source, data scientists from around the world can easily collaborate with one another. Python is also especially suited for development in data-intensive activities, like big data and analytics, because of its high-performance numerical computation capabilities.",
-        "output": "Python 是一种出色的数据科学语言，因为它具有可读性、语法简单性和广泛的可用库。Python也是一种交互式语言，它使数据科学家可以轻松地快速分析和操作数据集。此外，由于Python是免费的开源的，来自世界各地的数据科学家可以轻松地相互协作。Python 还特别适合数据密集型活动的开发，如大数据和分析，因为它具有高性能的数值计算能力。"
+        "output": "Python是一种出色的数据科学语言，因为它具有可读性、语法简单性和广泛的可用库。Python也是一种交互式语言，它使数据科学家可以轻松地快速分析和操作数据集。此外，由于Python是免费的开源的，来自世界各地的数据科学家可以轻松地相互协作。Python 还特别适合数据密集型活动的开发，如大数据和分析，因为它具有高性能的数值计算能力。"
     },
     {
         "en_instruction": "Come up with an interesting topic for a persuasive essay.",
@@ -425,11 +425,11 @@
     },
     {
         "en_instruction": "Edit the following sentence to correct any spelling/grammar/style mistakes:",
-        "instruction": "编辑以下句子以更正任何拼写/语法/样式错误：",
+        "instruction": "指出以下句子以更正任何语病/语法/用词错误：",
         "en_input": "There are too much obstacles in the way.",
-        "input": "路上有太多的障碍。",
+        "input": "世界是一个永远不停地运动变化的过程。",
         "en_output": "There are too many obstacles in the way.",
-        "output": "路上有太多的障碍。"
+        "output": "主宾搭配不当，世界不是过程，可以在世界后面加一个“发展”，修改成：世界的发展是一个永远不停地运动变化的过程。"
     },
     {
         "en_instruction": "Replace the word \"stronghold\" in the sentence with a synonym.",
@@ -611,9 +611,9 @@
         "en_instruction": "Formalize the following solution into an appropriate mathematical equation",
         "instruction": "将以下解决方案形式化为适当的数学方程",
         "en_input": "y is 24 when x is 8",
-        "input": "当 x 为 8 时，y 为 24",
-        "en_output": "y = 3 x",
-        "output": "y = 3 x"
+        "input": "当 x为8时，y为24",
+        "en_output": "y = 3x",
+        "output": "y = 3x"
     },
     {
         "en_instruction": "Typically, what are the three most important considerations when hiring a new employee?",
@@ -776,12 +776,12 @@
         "output": "SELECT name, age FROM students WHERE city='Brisbane';"
     },
     {
-        "en_instruction": "Find the missing letter in the following sequence.",
-        "instruction": "按以下顺序查找缺少的字母。",
-        "en_input": "aebrmo",
-        "input": "埃布莫",
-        "en_output": "The missing letter is 'i'. The correct sequence is 'aebirmo'.",
-        "output": "缺少的字母是“i”。正确的顺序是“aebirmo”。"
+        "en_instruction": "Find the missing letter in the following word.",
+        "instruction": "找出下面单词缺少的字母",
+        "en_input": "imediately",
+        "input": "imediately",
+        "en_output": "The missing letter is 'm'. The correct spelling is 'immediately'.",
+        "output": "缺少的字母是“m”。正确的拼写为immediately。"
     },
     {
         "en_instruction": "Find the solution to the following linear system.",
@@ -825,7 +825,7 @@
     },
     {
         "en_instruction": "Name three computer programming languages.",
-        "instruction": "命名三种计算机编程语言。",
+        "instruction": "说出三种计算机编程语言。",
         "en_input": "",
         "input": "",
         "en_output": "Java, Python, and JavaScript.",
@@ -845,7 +845,7 @@
         "en_input": "",
         "input": "",
         "en_output": "The new coding language must be easy to learn.",
-        "output": "新的编码语言必须易于学习。"
+        "output": "新的编码语言须易于学习。"
     },
     {
         "en_instruction": "Give a reason why it is a bad idea to wait until the last minute to start an assignment.",
@@ -869,7 +869,7 @@
         "en_input": "",
         "input": "",
         "en_output": "The Three Amigos.",
-        "output": "三位朋友。"
+        "output": "三人行。"
     },
     {
         "en_instruction": "Edit the following sentence to make it sound more formal. \"we have to find some way to make it work\"",
@@ -893,7 +893,7 @@
         "en_input": "",
         "input": "",
         "en_output": "AI is an abbreviation for Artificial Intelligence, which is a branch of computer science that seeks to develop machines and software that demonstrate intelligent behavior and can solve problems independently.",
-        "output": "人工智能是人工智能的缩写，人工智能是计算机科学的一个分支，旨在开发展示智能行为并可以独立解决问题的机器和软件。"
+        "output": "AI是人工智能的缩写，人工智能是计算机科学的一个分支，旨在开发展示智能行为并可以独立解决问题的机器和软件。"
     },
     {
         "en_instruction": "Type the silent letter in the word 'honest'.",
@@ -937,11 +937,11 @@
     },
     {
         "en_instruction": "Synonymize the word “angry.”",
-        "instruction": "将“愤怒”一词同义化。",
+        "instruction": "说出“愤怒”的同义词。",
         "en_input": "",
         "input": "",
         "en_output": "The synonym of \"angry\" is \"furious\".",
-        "output": "“愤怒”的同义词是“愤怒”。"
+        "output": "“愤怒”的同义词是“愤慨”、“气愤”。"
     },
     {
         "en_instruction": "Based on the following sentence, what is the emotion being expressed?",
@@ -1689,11 +1689,11 @@
     },
     {
         "en_instruction": "Explain what a pin code is, and list some of its advantages.",
-        "instruction": "解释什么是密码，并列出它的一些优点。",
+        "instruction": "解释什么是PIN码，并列出它的一些优点。",
         "en_input": "",
         "input": "",
         "en_output": "A pin code is a security code consisting of a combination of numbers or letters used to confirm the identity of a user. It's typically used in conjunction with login credentials like a username or email address to ensure the user is who they say they are. Some of its advantages include being convenient, being simple to remember, and providing a higher level of security than other authentication methods. Other advantages include portability, since the pin code does not rely on physical factors like fingerprints or facial recognition; and cost, as it does not require any additional hardware for validation.",
-        "output": "PIN 码是由数字或字母组合组成的安全码，用于确认用户的身份。它通常与登录凭据（如用户名或电子邮件地址）结合使用，以确保用户是他们所说的人。它的一些优点包括方便、易于记忆以及提供比其他身份验证方法更高级别的安全性。其他优点包括便携性，因为 PIN 码不依赖于指纹或面部识别等物理因素;和成本，因为它不需要任何额外的硬件进行验证。"
+        "output": "PIN码是由数字或字母组合组成的安全码，用于确认用户的身份。它通常与登录凭据（如用户名或电子邮件地址）结合使用，以确保用户是他们所说的人。它的一些优点包括方便、易于记忆以及提供比其他身份验证方法更高级别的安全性。其他优点包括便携性，因为 PIN 码不依赖于指纹或面部识别等物理因素;和成本，因为它不需要任何额外的硬件进行验证。"
     },
     {
         "en_instruction": "On a scale of 1 to 10, rate the food you had yesterday and explain why.",
@@ -1777,11 +1777,11 @@
     },
     {
         "en_instruction": "How many gigs are in a terabyte?",
-        "instruction": "一 TB 中有多少演出？",
+        "instruction": "1TB等于多少GB？",
         "en_input": "",
         "input": "",
         "en_output": "1 terabyte is equal to 1024 gigabytes.",
-        "output": "1 TB 等于 1024 GB。"
+        "output": "1TB等于1024GB。"
     },
     {
         "en_instruction": "How would you define fascism?",
@@ -2217,7 +2217,7 @@
     },
     {
         "en_instruction": "Validate the following statement: 8 is an even number.",
-        "instruction": "验证以下语句：8 是偶数。",
+        "instruction": "验证以下说法是真还是假：8是偶数。",
         "en_input": "",
         "input": "",
         "en_output": "true.",
@@ -2445,7 +2445,7 @@
         "en_input": "Sing",
         "input": "唱",
         "en_output": "Sang.",
-        "output": "唱。"
+        "output": "唱了。"
     },
     {
         "en_instruction": "Construct a simile for the following",
@@ -2613,7 +2613,7 @@
         "en_input": "",
         "input": "",
         "en_output": "The synonym of 'unrelenting' is relentless.",
-        "output": "“无情”的同义词是无情的。"
+        "output": "“无情”的同义词是“薄情”、“冷血”。"
     },
     {
         "en_instruction": "What is the name of the fifth planet from the Sun?",
@@ -2673,19 +2673,19 @@
     },
     {
         "en_instruction": "Name the members of a rock band",
-        "instruction": "命名摇滚乐队的成员",
+        "instruction": "摇滚乐队由哪些成员组成",
         "en_input": "",
         "input": "",
         "en_output": "The members of a rock band are typically a singer, a guitarist, a bassist, a drummer, and a keyboardist.",
         "output": "摇滚乐队的成员通常是歌手、吉他手、贝斯手、鼓手和键盘手。"
     },
     {
-        "en_instruction": "Write a secret message",
-        "instruction": "写一条秘密消息",
+        "en_instruction": "create a password, which should contains at least 8 characters, and contains both letters and numbers",
+        "instruction": "创建要给密码，长度至少由8位，需要同时包含英文和数字",
         "en_input": "",
         "input": "",
-        "en_output": "The secret message is: Be bold and seize the day!",
-        "output": "秘密信息是：大胆抓住这一天！"
+        "en_output": "suc72xYie92",
+        "output": "suc72xYie92"
     },
     {
         "en_instruction": "Edit the following text to follow the rules of formal English.",

@@ -11,6 +11,7 @@ chunk_size = 1000
 
 
 def split():
+    # NOTE do not call this function unless you edit the merged file only and want to update the split file.
     with open(merged_file_path, 'r', encoding='utf-8') as rf:
         samples = json.load(rf)
         print(f'total samples {len(samples)}')
@@ -32,8 +33,9 @@ def merge():
             items = json.load(rf)
             samples.extend(items)
     print(len(samples))
+    with open(merged_file_path, 'w', encoding='utf-8') as wf:
+        wf.write(json.dumps(samples, ensure_ascii=False, indent=4))
 
 
 if __name__ == '__main__':
-    # split()
-    merge()
+    merge()  # merge the split file to alpaca-chinese-52k.json
