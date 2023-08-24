@@ -2396,16 +2396,16 @@
         "instruction": "编译一个 Python 程序。",
         "en_input": "# main.py\n\ndef hello():\n    print('Hello World!')\n\nif __name__ == '__main__':\n    hello()",
         "input": "# main.py\n\ndef hello():\n    print('Hello World!')\n\nif __name__ == '__main__':\n    hello()",
-        "en_output": "<nooutput> (The output of this instruction is the compiled Python program)",
-        "output": "<nooutput> （此指令的输出是编译后的 Python 程序）"
+        "en_output": "Python, as a dynamic language, cannot be \"compiled\" into machine code statically, like C or C++ can. You'll always need an interpreter to execute the code, which, by definition in the language, is a dynamic operation. As for the above Python code, it will print \"Hello World!\" when execute",
+        "output": "Python作为一种动态语言，无法像C或C++那样静态“编译”为机器代码。你始终需要一个解释器来执行代码，根据语言的定义，这是一个动态操作。至于上面的Python代码，运行它的话，它会打印“Hello World!”"
     },
     {
         "en_instruction": "Find the highest peak in the world.",
-        "instruction": "寻找世界最高峰。",
+        "instruction": "世界最高点是哪里？",
         "en_input": "",
         "input": "",
-        "en_output": "The highest peak in the world is Mount Everest, which is located in Nepal and rises to a height of 8,848 meters (29,029 feet).",
-        "output": "世界最高峰是珠穆朗玛峰，位于尼泊尔，海拔8，848米（29，029英尺）。"
+        "en_output": "The highest peak in the world is Mount Everest, with a height of 8,848 (29,032 ft) meters. It is located in the Himalayan mountains on the border between Nepal and China and was climbed for the first time in 1953.",
+        "output": "世界最高峰是珠穆朗玛峰，高度为 8,848（29,032英尺）米。它位于尼泊尔和中国边境的喜马拉雅山脉，于1953年首次被攀登。"
     },
     {
         "en_instruction": "Convert the following number in hexadecimal format.",
