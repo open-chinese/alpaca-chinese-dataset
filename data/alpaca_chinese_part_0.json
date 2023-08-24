@@ -68,8 +68,8 @@
         "instruction": "渲染房屋的 3D 模型",
         "en_input": "",
         "input": "",
-        "en_output": "<nooutput> This type of instruction cannot be fulfilled by a GPT model.",
-        "output": "<nooutput> GPT 模型无法满足此类指令。"
+        "en_output": "Before you get out the hardware, use software like free floor-plan apps and augmented-reality tools to sketch out the ideas for your remodeling projects. You can find plenty of home-design apps in a range of prices in your app store. And some retailer apps, like those from Build.com and Wayfair, use augmented reality to show virtual objects like furniture in a room",
+        "output": "在尝试硬件之前，请使用免费平面图应用程序和增强现实工具等软件来勾勒出改造项目的想法。你可以在应用程序商店中找到各种价格的大量家居设计应用程序。一些零售商应用程序，例如 Build.com 和 Wayfair 的应用程序，使用增强现实来显示虚拟对象，例如房间中的家具"
     },
     {
         "en_instruction": "Evaluate this sentence for spelling and grammar mistakes",

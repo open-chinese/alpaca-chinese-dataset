@@ -3116,8 +3116,8 @@
         "instruction": "创建气候变化对北极影响的可视化表示",
         "en_input": "",
         "input": "",
-        "en_output": "<nooutput>",
-        "output": "<nooutput>"
+        "en_output": "this problem is too complicated to answer.",
+        "output": "这个问题比较复杂。"
     },
     {
         "en_instruction": "Write ten lines that describe a family gathering.",
@@ -5555,9 +5555,9 @@
         "en_instruction": "Train a GPT-2 language model on the given corpus.",
         "instruction": "在给定语料库上训练 GPT-2 语言模型。",
         "en_input": "<Corpus: A collection of texts related to your topic>",
-        "input": "<语料库：与您的主题相关的文本集合>",
-        "en_output": "<nooutput>",
-        "output": "<nooutput>"
+        "input": "<语料库：你给定的相关文本集合>",
+        "en_output": "you can refer the huggingface document for the training process",
+        "output": "你可以参考huggingface的文档来完成训练。"
     },
     {
         "en_instruction": "Compile a list of 5 famous landmarks in England.",
