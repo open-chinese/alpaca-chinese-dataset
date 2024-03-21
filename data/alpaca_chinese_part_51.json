@@ -505,7 +505,7 @@
     },
     {
         "en_instruction": "Calculate the sum of the provided integers.",
-        "instruction": "计算提供的整数的总和。",
+        "instruction": "计算给出的整数的总和。",
         "en_input": "1, 3, 5",
         "input": "1, 3, 5",
         "en_output": "9",
