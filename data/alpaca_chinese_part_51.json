@@ -481,11 +481,11 @@
     },
     {
         "en_instruction": "Give three proverbs related to the input.",
-        "instruction": "给出与输入相关的三个谚语。",
+        "instruction": "给出与输入相关的三个成语。",
         "en_input": "Love",
         "input": "爱",
         "en_output": "1. Love conquers all. \n2. Love makes the world go round. \n3. Love knows no bounds.",
-        "output": "1.爱征服一切。\n2.爱让世界运转。\n3.爱无止境。"
+        "output": "1.爱屋及乌。\n2.海枯石烂。\n3.一见钟情。"
     },
     {
         "en_instruction": "Answer the question based on common sense and your knowledge.",
