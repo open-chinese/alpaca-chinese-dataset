@@ -206,8 +206,8 @@
 | 48 |  [./data/alpaca_chinese_part_48.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_48.json) | 等待认领 | ![](https://geps.dev/progress/0) |
 | 49 |  [./data/alpaca_chinese_part_49.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_49.json) | 等待认领 | ![](https://geps.dev/progress/0) |
 | 50 |  [./data/alpaca_chinese_part_50.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_50.json) | 等待认领 | ![](https://geps.dev/progress/0) |
-| 51 |  [./data/alpaca_chinese_part_51.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_51.json) | 等待认领 | ![](https://geps.dev/progress/0) |
-| 52 |  [./data/alpaca_chinese_part_52.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_52.json) | 等待认领 | ![](https://geps.dev/progress/0) |
+| 51 |  [./data/alpaca_chinese_part_51.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_51.json) | Lwen1243 | ![](https://geps.dev/progress/10) |
+| 52 |  [./data/alpaca_chinese_part_52.json](https://github.com/open-chinese/alpaca-chinese-dataset/blob/main/data/alpaca_chinese_part_52.json) | Lwen1243 | ![](https://geps.dev/progress/100) |
 
 
 # Lwen1243更新
