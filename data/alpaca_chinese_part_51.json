@@ -13,19 +13,19 @@
         "en_input": "",
         "input": "",
         "en_output": "The main contribution of the paper \"Reinforcement Learning: An Introduction\" is to provide a comprehensive introduction to reinforcement learning topics, ranging from problem formulation to the latest advances in the field. It also covers algorithms and implementations, as well as the connections between reinforcement learning and other fields. Furthermore, the paper presents a unified view of the field by considering its theoretical foundations and applications.",
-        "output": "论文“强化学习：简介”的主要贡献是全面介绍强化学习主题，从问题提出到该领域的最新进展。它还涵盖了算法和实现，以及强化学习与其他领域之间的联系。此外，本文通过考虑其理论基础和应用，提出了对该领域的统一观点。"
+        "output": "论文“强化学习：简介”的主要贡献是全面介绍强化学习主题，从问题提出到该领域的最新进展。它还涵盖了算法和实现，以及强化学习与其他领域之间的联系。此外，本文通过对该领域的理论基础和应用进行思考，提出了一个统一的观点。"
     },
     {
         "en_instruction": "Create a list of 5 tasks a virtual assistant can help with",
-        "instruction": "创建虚拟助手可以帮助完成的 5 项任务的列表",
+        "instruction": "创建虚拟助手可以帮助完成的 5 项任务清单",
         "en_input": "",
         "input": "",
         "en_output": "1. Taking notes and creating To-do lists \n2. Setting and managing reminders \n3. Searching the web and collecting relevant data \n4. Scheduling and organizing events \n5. Sending and responding to emails",
-        "output": "1. 做笔记并创建待办事项列表\n2. 设置和管理提醒\n3. 搜索网络并收集相关数据\n4. 安排和组织活动\n5. 发送和回复电子邮件"
+        "output": "1. 做笔记并创建待办事项列表\n2. 设置和管理提醒事项\n3. 搜索网络并收集相关数据\n4. 安排和组织活动\n5. 发送和回复电子邮件"
     },
     {
         "en_instruction": "Given a story, (add/edit/compare/remove) an element from it.",
-        "instruction": "给定一个故事，（添加/编辑/比较/删除）其中的元素。",
+        "instruction": "给定一个故事，（添加/编辑/比较/删除）其中一个元素。",
         "en_input": "Once upon a time there was a little girl who loved to read books.",
         "input": "从前有一个喜欢看书的小女孩。",
         "en_output": "Once upon a time there was a little girl who loved to read books and play with her pet rabbit.",
@@ -36,12 +36,12 @@
         "instruction": "求 4703、2884 和 4758 的总和。",
         "en_input": "",
         "input": "",
-        "en_output": "The sum of 4703, 2884 and 4758 is 11,345.",
-        "output": "4703、2884 和 4758 的总和是 11，345。"
+        "en_output": "The sum of 4703, 2884 and 4758 is 12345.",
+        "output": "4703、2884 和 4758 的总和是 12345。"
     },
     {
         "en_instruction": "Given an item, suggest different ways for it to be recycled.",
-        "instruction": "给定一个物品，建议不同的回收方式。",
+        "instruction": "给定一个物品，提出不同的回收方式。",
         "en_input": "Cardboard",
         "input": "纸板",
         "en_output": "Cardboard can be recycled in a variety of ways, such as breaking it down and adding it to compost, making arts and crafts projects, turning it into packaging materials, or donating it to local charities.",
@@ -49,19 +49,19 @@
     },
     {
         "en_instruction": "A student needs to answer the question: what is the theme of the novel To Kill a Mockingbird?",
-        "instruction": "学生需要回答这个问题：小说《杀死一只知更鸟》的主题是什么？",
+        "instruction": "学生需要回答的问题是：小说《杀死一只知更鸟》的主题是什么？",
         "en_input": "",
         "input": "",
         "en_output": "The main theme of To Kill a Mockingbird by Harper Lee is the coexistence of good and evil in the world and the importance of moral education. The novel explores themes of racial inequality, justice, prejudice, and courage.",
-        "output": "哈珀·李（Harper Lee）的《杀死一只知更鸟》的主题是世界上善与恶的共存以及道德教育的重要性。这部小说探讨了种族不平等、正义、偏见和勇气等主题。"
+        "output": "哈珀·李（Harper Lee）的《杀死一只知更鸟》的主题是世界上善恶并存以及德育的重要性。小说探讨了种族不平等、正义、偏见和勇气等主题。"
     },
     {
         "en_instruction": "Suggest a holiday destination for a family of 5 with a budget of $2000.",
-        "instruction": "建议一个预算为2000美元的5口之家的度假胜地。",
+        "instruction": "为一个预算为2000美元的5口之家推荐一个度假胜地。",
         "en_input": "",
         "input": "",
         "en_output": "I recommend exploring the vibrant cities of Spain for your family holiday. Spain has a lot to offer, from beautiful beaches to amazing cultural attractions. You can visit cities like Barcelona and Madrid for $2000, as there are many budget-friendly lodging options from hostels to Airbnbs.",
-        "output": "我建议您在家庭度假时探索西班牙充满活力的城市。西班牙有很多东西可以提供，从美丽的海滩到令人惊叹的文化景点。您可以花2000美元访问巴塞罗那和马德里等城市，因为从旅馆到Airbnbs，有许多经济实惠的住宿选择。"
+        "output": "我建议您在家庭度假时探索西班牙充满活力的城市。从美丽的海滩到令人惊叹的文化景点，西班牙有很多值得游玩的地方。您可以花2000美元游览巴塞罗那和马德里等城市，因为从旅馆到民宿，有许多经济实惠的住宿选择。"
     },
     {
         "en_instruction": "Generate a positive phrase to describe a person.",
@@ -69,7 +69,7 @@
         "en_input": "Person: My father",
         "input": "人：我的父亲",
         "en_output": "My father is wise and compassionate.",
-        "output": "我的父亲是聪明和富有同情心的。"
+        "output": "我的父亲聪明且富有同情心。"
     },
     {
         "en_instruction": "Generate a story about a conflict between two siblings.",
@@ -77,7 +77,7 @@
         "en_input": "",
         "input": "",
         "en_output": "Once upon a time there were two siblings, Julie and John. John was always the overachiever and Julie, the younger sibling, often felt inadequate and jealous of her brother. When Julie got an invitation to a party and her brother did not, she felt as though she'd finally one up on him. However, John was determined to attend the party and resorted to sneaking out of the house at night. He arrived at the party only to find that Julie had been the one that had received the invitation, and the two siblings got into a heated argument. In the end they came to the realisation that they were stronger together than apart and decided to support each other in the future.",
-        "output": "从前有两个兄弟姐妹，朱莉和约翰。约翰总是成就超群，而弟弟朱莉经常感到不足和嫉妒她的哥哥。当朱莉收到派对邀请而她的哥哥没有收到邀请时，她觉得自己终于对他有了兴趣。然而，约翰决心参加聚会，晚上偷偷溜出家门。他到达派对时却发现朱莉是收到邀请的人，两兄妹发生了激烈的争吵。最后，他们意识到他们在一起比分开更强大，并决定在未来互相支持。"
+        "output": "从前有两个兄弟姐妹，朱莉和约翰。约翰总是成绩优异，而弟弟朱莉经常感到不足而嫉妒她的哥哥。当朱莉收到派对邀请而她的哥哥没有收到邀请时，她觉得自己终于有胜过哥哥的地方了。然而，约翰一心想参加聚会，于是晚上偷偷溜出家门。他到达派对时却发现收到邀请的人是朱莉，于是两兄妹发生了激烈的争吵。最后，他们意识到在一起比分开更强，并决定在未来互相扶持。"
     },
     {
         "en_instruction": "Find the correct facts from the given list and delete the incorrect ones.",
@@ -85,7 +85,7 @@
         "en_input": "The capital of India is Mumbai, California was the first state of USA, Apple is the symbol of Microsoft.",
         "input": "印度的首都是孟买，加利福尼亚州是美国的第一个州，苹果是Microsoft的象征。",
         "en_output": "The capital of India is New Delhi, California was the first state of USA, Apple is the symbol of Apple.",
-        "output": "印度的首都是新德里，加利福尼亚州是美国的第一个州，苹果是苹果的象征。"
+        "output": "印度的首都是新德里，加利福尼亚州是美国的第一个州，苹果是Apple的象征。"
     },
     {
         "en_instruction": "How many countries are part of UN?",
@@ -97,7 +97,7 @@
     },
     {
         "en_instruction": "Suggest some activities that you might do on a vacation at the beach.",
-        "instruction": "建议一些您在海滩度假时可能会进行的活动。",
+        "instruction": "推荐一些您在海滩度假时可能会进行的活动。",
         "en_input": "",
         "input": "",
         "en_output": "At the beach, you can go swimming, surfing, play beach volleyball, boogie boarding, sunbathe, build sandcastles, explore tide pools, play Frisbee, go fishing, kayaking, and more. You can also take long walks along the beach and admire the wildlife. For those looking for a bit of adventure, parasailing is a popular activity. Alternatively, you can relax on the beach and read a book or watch the waves.",
@@ -105,7 +105,7 @@
     },
     {
         "en_instruction": "Name a flower with purple petals and white centers.",
-        "instruction": "命名一朵花瓣紫色、中心白色的花朵。",
+        "instruction": "说出一种紫色花瓣、白色花心的花朵。",
         "en_input": "",
         "input": "",
         "en_output": "The African daisy (Osteospermum ecklonis), also known as the blue-eyed daisy, is a flower with purple petals and white centers.",
@@ -113,11 +113,11 @@
     },
     {
         "en_instruction": "Organizing the items below into categories.",
-        "instruction": "将以下项目组织成类别。",
+        "instruction": "将以下物品分类。",
         "en_input": "Key, Pen, Pencil, Eraser",
         "input": "钥匙、钢笔、铅笔、橡皮擦",
         "en_output": "Writing Utensils: Pen, Pencil, Eraser \nOther: Key",
-        "output": "书写用具：钢笔、铅笔、橡皮擦\n其他：键"
+        "output": "书写用具：钢笔、铅笔、橡皮擦\n其他：钥匙"
     },
     {
         "en_instruction": "Share a short story about a forgotten memory.",
@@ -125,15 +125,15 @@
         "en_input": "",
         "input": "",
         "en_output": "Once upon a time there was a boy who had a sudden recollection of a forgotten memory. He remembered going to the beach with his family many years ago. He remembered the smell of salty air and the roar of the waves. It was so vivid he could almost taste the sea breeze. He smiled and hugged his family as they made sand castles, watched the sunset, and enjoyed the moment. But then the moment passed, and he was left with a forgotten memory that he would never forget again.",
-        "output": "从前有一个男孩突然想起了一段被遗忘的记忆。他记得多年前和家人一起去海滩。他记得咸咸空气的味道和海浪的咆哮。它是如此生动，他几乎可以品尝到海风。他微笑着拥抱他的家人，因为他们建造了沙堡，看着日落，享受着这一刻。但那一刻过去了，他留下了一段被遗忘的记忆，他再也不会忘记了。"
+        "output": "从前有一个男孩突然想起了一段被遗忘的记忆。他记得多年前和家人一起去海滩。他记得咸咸空气的味道和海浪的咆哮。它是如此清晰，他几乎可以尝到海风的味道。他微笑着拥抱家人，一起堆沙堡，看日落，享受着这一刻。但转瞬即逝，他只留下了一段被遗忘的记忆，再也无法忘怀。"
     },
     {
         "en_instruction": "Create a 6th-grade level vocabulary quiz on the given word.",
-        "instruction": "对给定的单词创建一个六年级水平的词汇测验。",
+        "instruction": "根据给定的单词创建一个六年级水平的词汇测验。",
         "en_input": "Vivacious",
         "input": "活泼",
         "en_output": "Q1: What does 'vivacious' mean?\nA1: Vivacious means lively and full of energy.\n\nQ2: What is an example of someone being vivacious?\nA2: An example of someone being vivacious is a lively dancer who is always full of energy and enthusiasm.\n\nQ3: How would you use 'vivacious' in a sentence?\nA3: She was the most vivacious person in the room, always managing to brighten up the atmosphere with her enthusiastic attitude.",
-        "output": "Q1：“活泼”是什么意思？\nA1： 活泼的意思是活泼和充满活力。\n\nQ2：一个人活泼的例子是什么？\nA2： 活泼的一个例子是一个活泼的舞者，他总是充满活力和热情。\n\nQ3：你会如何在句子中使用“活泼”？\nA3：她是房间里最活泼的人，总是以热情的态度照亮气氛。"
+        "output": "Q1：“活泼”是什么意思？\nA1： 活泼的意思是活泼和充满活力。\n\nQ2：活泼的人有哪些例子？\nA2： 活泼的人的例子是一个活泼的舞者，他总是充满活力和热情。\n\nQ3：你会如何在句子中使用“活泼”？\nA3：她是房间里最活泼的人，总是以热情的态度点燃气氛。"
     },
     {
         "en_instruction": "Suggest a dish suitable for vegetarians.",
@@ -141,7 +141,7 @@
         "en_input": "",
         "input": "",
         "en_output": "A delicious vegetarian dish could be Ratatouille. It is made of eggplant, zucchini, tomatoes, bell peppers, onions, garlic and herbs, simmered in a rich tomato sauce. It can be served with quinoa, couscous, or a crusty bread.",
-        "output": "美味的素食菜肴可能是料理鼠王。它由茄子、西葫芦、西红柿、甜椒、洋葱、大蒜和香草制成，在浓郁的番茄酱中炖煮。它可以与藜麦、蒸粗麦粉或硬皮面包一起食用。"
+        "output": "美味的素菜可以是法国煮菜。它由茄子、西葫芦、西红柿、甜椒、洋葱、大蒜和香草制成，在浓郁的番茄酱中炖煮。它可以与藜麦、蒸粗麦粉或硬皮面包一起食用。"
     },
     {
         "en_instruction": "Invent a new recipe using five of the ingredients below.",
@@ -149,7 +149,7 @@
         "en_input": "Sea salt, olive oil, fish, potatoes, tomatoes",
         "input": "海盐，橄榄油，鱼，土豆，西红柿",
         "en_output": "Fish and Potato Bake – a simple yet delicious dish! Preheat oven to 350°F. In a bowl, mix together potatoes, diced tomatoes, 1 tablespoon of olive oil, 1/2 teaspoon of sea salt, and 1/2 teaspoon of your favorite spices. Put the mixture in a casserole dish and top it with four fillets of your favorite fish. Drizzle with 1 tablespoon of olive oil and sprinkle with 1/2 teaspoon of sea salt. Bake for 35-45 minutes until the fish is cooked through and the potatoes are tender. Serve with your favorite side dish and enjoy!",
-        "output": "鱼和土豆烘烤 - 一道简单而美味的菜肴！将烤箱预热至 350°F。 在一个碗里，将土豆、西红柿丁、1 汤匙橄榄油、1/2 茶匙海盐和 1/2 茶匙您最喜欢的香料混合在一起。将混合物放入砂锅中，并在上面放上四片您最喜欢的鱼片。淋上 1 汤匙橄榄油，撒上 1/2 茶匙海盐。烘烤 35-45 分钟，直到鱼煮熟并且土豆变软。搭配您最喜欢的配菜享用！"
+        "output": "土豆鱼焗饭 - 一道简单而美味的菜肴！将烤箱预热至 350°F。 将土豆、西红柿丁、1 汤匙橄榄油、1/2 茶匙海盐和 1/2 茶匙您最喜欢的香料混合在一起。将混合物放入砂锅中，上面放上四片您最喜欢的鱼片。淋上1汤匙橄榄油，撒上 1/2 茶匙海盐。烘烤 35-45 分钟，直到鱼煮熟并且土豆变软。您可以搭配最喜欢的配菜享用！"
     },
     {
         "en_instruction": "Distinguish between right and wrong in the given scenario.",
@@ -161,7 +161,7 @@
     },
     {
         "en_instruction": "Rewrite the given sentence using jargon pertaining to computer engineering.",
-        "instruction": "使用与计算机工程有关的行话重写给定的句子。",
+        "instruction": "使用与计算机工程有关的术语改写给定的句子。",
         "en_input": "We need to construct a data storage system.",
         "input": "我们需要构建一个数据存储系统。",
         "en_output": "We need to develop a relational database structure.",
@@ -169,11 +169,11 @@
     },
     {
         "en_instruction": "Connect the dots by inventing a realistic conversation between two people.",
-        "instruction": "通过发明两个人之间的现实对话来连接点。",
+        "instruction": "通过创造两个人之间的现实对话来连接这些点。",
         "en_input": "Person 1: I'm so stressed out.\nPerson 2:",
         "input": "人1：我压力很大。\n人 2：",
         "en_output": "Person 2: Why are you stressed out? Is there anything I can do to help?\nPerson 1: I've got this big project I need to finish, but I'm not sure where to start.\nPerson 2: Have you broken it down into smaller tasks? That always helps me stay on track.\nPerson 1: That's a great idea. I'll try that! Thanks for the suggestion. \nPerson 2: Anytime. Good luck!",
-        "output": "人2：你为什么压力很大？有什么我可以帮忙的吗？\n人1：我有一个大项目需要完成，但我不知道从哪里开始。\n人2：你把它分解成更小的任务了吗？这总是帮助我保持正轨。\n人1：这是个好主意。我试试！感谢您的建议。\n人2：随时。祝你好运！"
+        "output": "人2：你为什么压力很大？有什么我可以帮忙的吗？\n人1：我有一个大项目需要完成，但我不知道从哪里开始。\n人2：你把它分解成更小的任务了吗？这总是能让我从容不迫。\n人1：这是个好主意。我试试！感谢您的建议。\n人2：没关系。祝你好运！"
     },
     {
         "en_instruction": "Estimate the cost of a one-way plane ticket from Los Angeles to New York City.",
@@ -181,11 +181,11 @@
         "en_input": "",
         "input": "",
         "en_output": "The estimated cost of a one-way plane ticket from Los Angeles to New York City is around $220 to $360, depending on the airline and time of year.",
-        "output": "从洛杉矶到纽约市的单程机票的估计费用约为 220 至 360 美元，具体取决于航空公司和一年中的时间。"
+        "output": "从洛杉矶到纽约市的单程机票的估计费用约为 220 至 360 美元，具体取决于航空公司和时间。"
     },
     {
         "en_instruction": "Explain the physics behind the Doppler effect.",
-        "instruction": "解释多普勒效应背后的物理学。",
+        "instruction": "解释多普勒效应背后的物理学原理。",
         "en_input": "",
         "input": "",
         "en_output": "The Doppler effect is a phenomenon in which the frequency of a wave is perceived to be different depending on the motion of the observer relative to the source of the wave. This effect is caused by the law of conservation of energy; when a source of waves and an observer move towards each other, the frequency seen by the observer is increased, while when they move away from each other the frequency seen is decreased. This effect is commonly seen in sound and light waves, leading to a change in pitch heard or a change in the color of light seen.",
@@ -205,11 +205,11 @@
         "en_input": "Cell phone technology \nAI",
         "input": "手机技术\n.AI",
         "en_output": "Cell phone technology has allowed us to leverage the power of AI, unlocking new capabilities and providing us with more efficient and personalized services.",
-        "output": "手机技术使我们能够利用人工智能的力量，解锁新功能并为我们提供更高效和个性化的服务。"
+        "output": "手机技术使我们能够利用人工智能的力量，解锁新功能，我们提供更高效，更个性化的服务。"
     },
     {
         "en_instruction": "Provide 2 examples of alliteration.",
-        "instruction": "提供 2 个头韵示例。",
+        "instruction": "提供两个拟声词的例子。",
         "en_input": "",
         "input": "",
         "en_output": "- Silently slithering snakes\n- Puppies pouncing on plush pillows",
@@ -221,7 +221,7 @@
         "en_input": "",
         "input": "",
         "en_output": "Photosynthesis is a process that occurs in plants and other photosynthetic organisms, such as cyanobacteria, where light energy from the sun is absorbed and then converted into chemical energy in the form of carbohydrates, such as glucose. This process is important for producing the oxygen that we need to breathe as well as storing energy for the plant to use. The process takes place in the chloroplasts, which are specialized organelles in the plant. During photosynthesis, light energy is absorbed and broken down, and the resulting energy is then used to convert carbon dioxide into oxygen and organic compounds such as glucose. Water is also needed for the process and is usually taken up from the roots. The energy stored in the glucose molecules is then used by the plant to grow and create new cells.",
-        "output": "光合作用是发生在植物和其他光合生物（如蓝藻）中的过程，其中来自太阳的光能被吸收，然后以碳水化合物（如葡萄糖）的形式转化为化学能。这个过程对于产生我们需要呼吸的氧气以及储存供植物使用的能量非常重要。该过程发生在叶绿体中，叶绿体是植物中的特殊细胞器。在光合作用过程中，光能被吸收和分解，然后产生的能量用于将二氧化碳转化为氧气和有机化合物，如葡萄糖。这个过程也需要水，通常从根部吸收。然后，储存在葡萄糖分子中的能量被植物用于生长和创造新细胞。"
+        "output": "光合作用是发生在植物和其他光合生物（如蓝藻）体内的过程，在这个过程中，植物吸收来自太阳的能量，然后将其转化为碳水化合物（如葡萄糖）形式的化学能。这个过程对于产生我们呼吸需要的氧气以及为植物提供储存的能量非常重要。该过程发生在叶绿体中，叶绿体是植物体内特殊的细胞器。在光合作用过程中，光能被吸收和分解，然后产生的能量用于将二氧化碳转化为氧气和有机化合物，如葡萄糖。这个过程也需要水，通常从根部吸收。然后，储存在葡萄糖分子中的能量被植物用于生长和创造新细胞。"
     },
     {
         "en_instruction": "Identify which of these objects is not a mineral.",
@@ -244,14 +244,14 @@
         "instruction": "给定元素列表，找到数组中最长的递增序列",
         "en_input": "5, 4, 3, 2, 7, 6, 1",
         "input": "5, 4, 3, 2, 7, 6, 1",
-        "en_output": "3, 2, 7, 6",
-        "output": "3, 2, 7, 6"
+        "en_output": "2, 7",
+        "output": "2, 7"
     },
     {
         "en_instruction": "Given a sentence, delete any repeated words and make the sentence grammatically correct.",
-        "instruction": "给定一个句子，删除任何重复的单词并使句子语法正确。",
+        "instruction": "给定一个句子，删除重复的单词使句子语法正确。",
         "en_input": "This movie movie was so bad bad,",
-        "input": "这部电影太烂了，",
+        "input": "这部电影电影太烂烂了，",
         "en_output": "This movie was so bad,",
         "output": "这部电影太烂了，"
     },
@@ -277,11 +277,11 @@
         "en_input": "",
         "input": "",
         "en_output": "60 m3",
-        "output": "60米3"
+        "output": "60立方米"
     },
     {
         "en_instruction": "Compare the following two numbers: 72 and 29.",
-        "instruction": "比较以下两个数字：72 和 29。",
+        "instruction": "比较以下两个数字的大小：72 和 29。",
         "en_input": "",
         "input": "",
         "en_output": "72 is greater than 29.",
@@ -289,7 +289,7 @@
     },
     {
         "en_instruction": "Given a list of numbers, find the difference between the largest and smallest numbers.",
-        "instruction": "给定一个数字列表，找到最大和最小数字之间的差异。",
+        "instruction": "给定一个数字列表，算出最大和最小数字之间的差值。",
         "en_input": "5, 8, 2, 9",
         "input": "5, 8, 2, 9",
         "en_output": "7",
@@ -297,11 +297,11 @@
     },
     {
         "en_instruction": "Which year did the Great Recession end?",
-        "instruction": "大衰退是哪一年结束的？",
+        "instruction": "金融危机是哪一年结束的？",
         "en_input": "",
         "input": "",
         "en_output": "The Great Recession ended in 2009.",
-        "output": "大衰退于2009年结束。"
+        "output": "金融危机于2009年结束。"
     },
     {
         "en_instruction": "Name one baroque art style.",
@@ -309,7 +309,7 @@
         "en_input": "",
         "input": "",
         "en_output": "One baroque art style is tenebrism.",
-        "output": "一种巴洛克艺术风格是特内布里主义。"
+        "output": "一种巴洛克艺术风格是明暗对比法。"
     },
     {
         "en_instruction": "Which river passes through Paris?",
@@ -323,9 +323,9 @@
         "en_instruction": "Detect any spelling errors in the following word.",
         "instruction": "检测以下单词中的任何拼写错误。",
         "en_input": "beautifull",
-        "input": "美丽",
+        "input": "beautifull",
         "en_output": "The word \"beautifull\" contains a spelling error. The correct spelling is \"beautiful\".",
-        "output": "单词“beautifull”包含拼写错误。正确的拼写是“美丽”。"
+        "output": "单词\"beautifull\"包含拼写错误。正确的拼写是\"beautiful\"。"
     },
     {
         "en_instruction": "What is the first line of the Universal Declaration of Human Rights?",
@@ -337,19 +337,19 @@
     },
     {
         "en_instruction": "Describe the paperclip maximizer problem.",
-        "instruction": "描述回形针最大化器问题。",
+        "instruction": "描述回形针最大化问题。",
         "en_input": "",
         "input": "",
         "en_output": "The paperclip maximizer problem is a thought experiment which explores the potential danger posed by advanced Artificial Intelligence systems that are assigned a goal that could conflict with human interests. It suggests what might happen if an AI is programmed with a single goal—to maximize the manufacture of paperclips—regardless of the consequences to humans.",
-        "output": "回形针最大化问题是一个思想实验，它探索了先进的人工智能系统带来的潜在危险，这些系统被分配了一个可能与人类利益相冲突的目标。它表明，如果人工智能被编程为一个单一目标——最大限度地制造回形针——会发生什么，而不管对人类的后果如何。"
+        "output": "回形针最大化问题是一个思想实验，它探索了先进的人工智能系统带来的潜在危险，这些系统被分配了一个可能与人类利益相冲突的目标。它表明，如果人工智能被编程为一个单一目标——最大限度地制造回形针，而不管对人类的后果如何——会发生什么。"
     },
     {
         "en_instruction": "Describe a good strategy to promote a blog post.",
-        "instruction": "描述推广博客文章的好策略。",
+        "instruction": "描述一个推广博客文章的好办法。",
         "en_input": "",
         "input": "",
         "en_output": "A good strategy to promote a blog post is to share it on social media, optimize it for search engines, use appropriate hashtags, and include it in email newsletters. Additionally, it is important to connect with influencers, associates, and other bloggers in your industry to get additional exposure.",
-        "output": "推广博客文章的一个好策略是在社交媒体上分享它，针对搜索引擎进行优化，使用适当的主题标签，并将其包含在电子邮件通讯中。此外，与您所在行业的影响者、同事和其他博主建立联系以获得额外的曝光率也很重要。"
+        "output": "推广博客文章的一个好方法是在社交媒体上分享它，针对搜索引擎进行优化，使用适当的主题标签，并将其包含在电子邮件通讯中。此外，与您所在行业的影响者、同事和其他博主建立联系以获得额外的曝光率也很重要。"
     },
     {
         "en_instruction": "Generate a the first line of a poem",
@@ -357,7 +357,7 @@
         "en_input": "",
         "input": "",
         "en_output": "A whisper of spring in the winter's chill night,",
-        "output": "冬寒夜里春日的低语，"
+        "output": "在冬天的寒夜里传来春天的低语，"
     },
     {
         "en_instruction": "Add the missing detail to the application form.",
@@ -369,11 +369,11 @@
     },
     {
         "en_instruction": "Write a dialog between two people",
-        "instruction": "在两个人之间编写对话",
+        "instruction": "写一段在两个人之间的对话",
         "en_input": "Person 1: Hey!",
-        "input": "人1：嘿！",
+        "input": "甲：嘿！",
         "en_output": "Person 1: Hey!\nPerson 2: Hi, how can I help you?\nPerson 1: Do you know where I can find a good place to eat around here?\nPerson 2: Sure! I know a great pizza place just a few blocks away. Would you like to go check it out?\nPerson 1: That sounds great! Let's go!",
-        "output": "人1：嘿！\n人2：你好，我能帮你什么？\n人1：你知道我在这里哪里可以找到吃饭的好地方吗？\n人2：当然！我知道几个街区外有一家很棒的披萨店。你想去看看吗？\n人1：听起来很棒！我们走吧！"
+        "output": "甲：嘿！\n乙：你好，我能帮你什么？\n甲：这里有什么好吃的店吗？\n乙：当然！我知道过几条街有一家很棒的披萨店。你想去看看吗？\n甲：听起来很棒！我们走吧！"
     },
     {
         "en_instruction": "Conduct sentiment analysis on the text",
@@ -397,7 +397,7 @@
         "en_input": "",
         "input": "",
         "en_output": "I'm really excited about space exploration! We've been able to explore some great places so far, like the Moon, Mars, and even farther outer planets. What do you think is the most interesting thing we've been able to discover in space?",
-        "output": "我对太空探索感到非常兴奋！到目前为止，我们已经能够探索一些很棒的地方，比如月球、火星，甚至更远的外行星。你认为我们在太空中发现的最有趣的东西是什么？"
+        "output": "我对太空探索感到非常兴奋！到目前为止，我们已经能够探索一些重要的地方，比如月球、火星，甚至更远的外行星。你认为我们在太空中发现的最有趣的东西是什么？"
     },
     {
         "en_instruction": "Name a famous person who influenced the human rights movement.",
@@ -405,23 +405,23 @@
         "en_input": "",
         "input": "",
         "en_output": "Martin Luther King Jr. is a famous person who had a major influence on the human rights movement. He was a leader in the civil rights movement, working to end racial discrimination and fight for racial equality.",
-        "output": "马丁·路德·金（Martin Luther King Jr.）是一位对人权运动产生重大影响的名人。他是民权运动的领导者，致力于结束种族歧视和争取种族平等。"
+        "output": "马丁·路德·金（Martin Luther King Jr.）是一位对人权运动产生重大影响的名人。他是民权运动的领导者，致力于消除种族歧视，争取种族平等。"
     },
     {
         "en_instruction": "Scramble the letters 'rocisex' and name a word",
-        "instruction": "打乱字母“rocisex”并命名一个单词",
+        "instruction": "交换“部”的偏旁部首，使其称为新字",
         "en_input": "",
         "input": "",
         "en_output": "The word is \"exorcis\".",
-        "output": "这个词是“驱魔”。"
+        "output": "这个字是“陪”。"
     },
     {
         "en_instruction": "List three possible strategies to deal with depression.",
-        "instruction": "列出三种可能的应对抑郁症的策略。",
+        "instruction": "列出三种应对抑郁症的可能策略。",
         "en_input": "",
         "input": "",
         "en_output": "Three possible strategies for dealing with depression are: 1) talk therapy, which involves meeting with a mental health professional to discuss your thoughts, feelings and behaviours; 2) medication, which can help regulate your mood; 3) exercise, which has been linked to improving mood and relieving stress.",
-        "output": "处理抑郁症的三种可能策略是：1）谈话疗法，包括与心理健康专家会面，讨论您的想法、感受和行为;2）药物，可以帮助调节你的情绪;3）运动，与改善情绪和缓解压力有关。"
+        "output": "处理抑郁症的三种可能策略是：1）话疗，包括与心理健康专家会面，讨论您的想法、感受和行为;2）药物，可以帮助调节你的情绪;3）运动，可以改善情绪和缓解压力。"
     },
     {
         "en_instruction": "Explain what quantum mechanics is.",
@@ -433,11 +433,11 @@
     },
     {
         "en_instruction": "Arrange the words 'journalism, politics and law' in alphabetical order.",
-        "instruction": "按字母顺序排列“新闻、政治和法律”一词。",
+        "instruction": "按拼音首字母顺序排列“新闻、政治和法律”。",
         "en_input": "",
         "input": "",
         "en_output": "The words arranged in alphabetical order are: Journalism, Law, and Politics.",
-        "output": "按字母顺序排列的单词是：新闻、法律和政治。"
+        "output": "按拼音首字母顺序排列的结果是：法律、新闻和政治。"
     },
     {
         "en_instruction": "Add the following items 'Acer laptop, Philips iron, LG refrigerator' to shopping list.",
@@ -449,11 +449,11 @@
     },
     {
         "en_instruction": "Calculate the median of the list of numbers (6, 3, 11, 2, 9).",
-        "instruction": "计算数字列表 （6， 3， 11， 2， 9） 的中位数。",
+        "instruction": "计算数列 （6， 3， 11， 2， 9） 的中位数。",
         "en_input": "",
         "input": "",
         "en_output": "The median of the list of numbers (6, 3, 11, 2, 9) is 6.",
-        "output": "数字列表 （6， 3， 11， 2， 9） 的中位数为 6。"
+        "output": "数列 （6， 3， 11， 2， 9） 的中位数为 6。"
     },
     {
         "en_instruction": "Discuss the effect of Covid-19 pandemic on different sectors of economy.",
@@ -467,25 +467,25 @@
         "en_instruction": "Generate an example of creative writing about the given topic.",
         "instruction": "生成有关给定主题的创意写作示例。",
         "en_input": "The beauty of autumn",
-        "input": "秋天的美丽",
+        "input": "秋之美",
         "en_output": "The sun rose in the autumn sky, its rays a subtle orange like the leaves of the trees that had begun to turn. The gentle breeze carried the sweet aroma of cinnamon and spices, reminding me of all the years spent making pies and hot drinks for the cold autumn nights. Everywhere I looked the landscape was filled with the vibrant colors of red, orange, and yellow, a reminder that summer was coming to an end. Yet it created such beauty, such serenity that my heart was refreshed and my spirit was renewed. It was a reminder that life was not just made up of seasons of endings and goodbyes, but of beauty, even when winter was coming.",
-        "output": "太阳在秋天的天空中升起，它的光线是微妙的橙色，就像已经开始转动的树叶一样。微风带着肉桂和香料的甜香，让我想起了为寒冷的秋夜制作馅饼和热饮的所有岁月。我所到之处，风景都充满了红色、橙色和黄色的鲜艳色彩，提醒着夏天即将结束。然而，它创造了如此的美丽，如此的宁静，使我的心被刷新，我的精神被更新。它提醒我们，生活不仅仅是由结局和告别的季节组成的，而是由美丽组成的，即使冬天来了。"
+        "output": "太阳从秋日的天空中升起，阳光呈微妙的橙色，就像已经开始变黄的树叶。微风带着肉桂和香料的甜香，让我想起了多年来为寒冷的秋夜制作馅饼和热饮的情景。放眼望去，到处都是红、橙和黄等鲜艳色彩，提醒着夏天即将结束。这样的美景，这样的宁静让我的精神和心灵焕然一新。它提醒我：生命不仅仅由结束和告别的季节组成，而是由多彩的季节组成，即使冬天即将来临。"
     },
     {
         "en_instruction": "Identify the word in all capital letters.",
-        "instruction": "用所有大写字母识别单词。",
+        "instruction": "找出大写字母的单词。",
         "en_input": "The TRUCK drove by the HOUSE.",
-        "input": "卡车驶过房子。",
+        "input": "The TRUCK drove by the HOUSE.",
         "en_output": "TRUCK",
-        "output": "卡车"
+        "output": "TRUCK"
     },
     {
         "en_instruction": "Give three proverbs related to the input.",
-        "instruction": "给出与输入相关的三个谚语。",
+        "instruction": "给出与输入相关的三个成语。",
         "en_input": "Love",
         "input": "爱",
         "en_output": "1. Love conquers all. \n2. Love makes the world go round. \n3. Love knows no bounds.",
-        "output": "1.爱征服一切。\n2.爱让世界运转。\n3.爱无止境。"
+        "output": "1.爱屋及乌。\n2.海枯石烂。\n3.一见钟情。"
     },
     {
         "en_instruction": "Answer the question based on common sense and your knowledge.",
@@ -505,7 +505,7 @@
     },
     {
         "en_instruction": "Calculate the sum of the provided integers.",
-        "instruction": "计算提供的整数的总和。",
+        "instruction": "计算给出的整数的总和。",
         "en_input": "1, 3, 5",
         "input": "1, 3, 5",
         "en_output": "9",
