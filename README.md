@@ -16,6 +16,12 @@ python main.py
 会自动将你的修改更新到alpaca-chinese-52k.json中
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=open-chinese/alpaca-chinese-dataset&type=Date)](https://star-history.com/#open-chinese/alpaca-chinese-dataset&Date)
+
+
+
 ### 数据集说明
 本数据集包括中文和英文的混合数据集，方便双语微调，以及后续做持续的数据修正。
 
