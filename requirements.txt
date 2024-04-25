@@ -1,0 +1,3 @@
+openai
+google-cloud
+google-auth
