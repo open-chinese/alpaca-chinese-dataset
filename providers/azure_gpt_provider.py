@@ -1,25 +1,27 @@
 import os
-from openai import OpenAI
+from openai import AzureOpenAI
 
 
 GPTTimeout = 15000
 OpenAIEndpoint = os.getenv('OpenAIEndpoint')
 OpenAIKey = os.getenv('OpenAIKey')
+OpenAIAPIVersion = '2024-07-01-preview'
 
-print(OpenAIEndpoint, OpenAIKey)
 
-
-class GPTProvider:
+class AzureGPTProvider:
 
     def __init__(self):
-        self._client = OpenAI(
-            api_key=os.getenv(OpenAIKey)
+        self._client = AzureOpenAI(
+            azure_endpoint=OpenAIEndpoint,
+            api_key=OpenAIKey,
+            api_version=OpenAIAPIVersion
+
         )
 
     def generate_text(self, messages, max_tokens=100, stop=None):
         chat_completion = self._client.chat.completions.create(
             messages=messages,
-            model='gpt-3.5-turbo',
+            model='gpt-4o',
             max_tokens=max_tokens,
             stop=stop
         )
@@ -38,6 +40,6 @@ if __name__ == '__main__':
             "content": "你叫什么名字？"
         }
     ]
-    provider = GPTProvider()
-    res = provider.generate_text(msgs, 100)
+    provider = AzureGPTProvider()
+    res = provider.generate_text(msgs, 50)
     print(res)
