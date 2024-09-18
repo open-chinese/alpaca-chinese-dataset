@@ -2,20 +2,13 @@ import os
 from openai import AzureOpenAI
 
 
-GPTTimeout = 15000
-OpenAIEndpoint = os.getenv('OpenAIEndpoint')
-OpenAIKey = os.getenv('OpenAIKey')
-OpenAIAPIVersion = '2024-07-01-preview'
-
-
 class AzureGPTProvider:
 
-    def __init__(self):
+    def __init__(self, endpoint, api_key, api_version):
         self._client = AzureOpenAI(
-            azure_endpoint=OpenAIEndpoint,
-            api_key=OpenAIKey,
-            api_version=OpenAIAPIVersion
-
+            azure_endpoint=endpoint,
+            api_key=api_key,
+            api_version=api_version
         )
 
     def generate_text(self, messages, max_tokens=100, stop=None):
@@ -33,13 +26,22 @@ if __name__ == '__main__':
     msgs = [
         {
             "role": "system",
-            "content": "请将我的所有输入都翻译成中文，不要输出其它内容。"
+            "content": "Your are an English-Chinese translator, \
+            no matter what I say, you translate all my words into Chinese."
         },
         {
             "role": "user",
             "content": "你叫什么名字？"
         }
     ]
-    provider = AzureGPTProvider()
+    openai_endpoint = os.getenv('OpenAIEndpoint')
+    openai_api_key = os.getenv('OpenAIKey')
+    openai_api_version = '2024-07-01-preview'
+
+    provider = AzureGPTProvider(
+        endpoint=openai_endpoint,
+        api_key=openai_api_key,
+        api_version=openai_api_version
+    )
     res = provider.generate_text(msgs, 50)
     print(res)

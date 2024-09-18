@@ -8,13 +8,10 @@
   
 - [2024/04/26] GPT 4o 个人账户设置好了，算了一下成本还可以接受。准备进行数据更新和生成。 
 
-### 计划
-- [2024/07] 使用国内大模型完成纠错以及更多样本生成。
 - [2024/07] GPT 4o (Personal account) for updating the dataset.
 
-### 当前状态
+- [2024/09] GPT 4o translation and evaluation added pipelines
 
-目前整体翻译已经完成，质量大概为85/100左右，可以用来做中文fine tuning了，但后续希望可以持续更新到98分/100分质量的数据集。欢迎更多更多朋友可以参与到此项目中来。
 
 ### 如何贡献修改
 
