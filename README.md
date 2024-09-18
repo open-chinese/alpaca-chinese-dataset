@@ -10,7 +10,7 @@
 
 - [2024/07] GPT 4o (Personal account) for updating the dataset.
 
-- [2024/09] GPT 4o translation and evaluation added pipelines
+- [2024/09] GPT 4o translation and evaluation: added pipelines
 
 
 ### 如何贡献修改
