@@ -1,0 +1,112 @@
+[
+    {
+        "en_instruction": "Give three tips for staying healthy.",
+        "en_input": "",
+        "en_output": "1.Eat a balanced diet and make sure to include plenty of fruits and vegetables. \n2. Exercise regularly to keep your body active and strong. \n3. Get enough sleep and maintain a consistent sleep schedule.",
+        "zh_instruction": "给出三个保持健康的建议。",
+        "zh_input": "",
+        "zh_output": "1. 均衡饮食，确保摄入足够的水果和蔬菜。\n2. 定期锻炼，保持身体活跃和强壮。\n3. 保证充足的睡眠，并保持稳定的睡眠时间。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "What are the three primary colors?",
+        "en_input": "",
+        "en_output": "The three primary colors are red, blue, and yellow.",
+        "zh_instruction": "什么是三原色？",
+        "zh_input": "",
+        "zh_output": "三原色是红色、蓝色和黄色。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Describe the structure of an atom.",
+        "en_input": "",
+        "en_output": "An atom is made up of a nucleus, which contains protons and neutrons, surrounded by electrons that travel in orbits around the nucleus. The protons and neutrons have a positive charge, while the electrons have a negative charge, resulting in an overall neutral atom. The number of each particle determines the atomic number and the type of atom.",
+        "zh_instruction": "描述原子的结构。",
+        "zh_input": "",
+        "zh_output": "原子由一个包含质子和中子的原子核组成，原子核周围是绕核轨道运动的电子。质子和中子带有正电荷，而电子带有负电荷，使得整个原子整体上是中性的。每种粒子的数量决定了原子序数和原子的类型。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "How can we reduce air pollution?",
+        "en_input": "",
+        "en_output": "There are a number of ways to reduce air pollution, such as shifting to renewable energy sources, encouraging the use of public transportation, prohibiting the burning of fossil fuels, implementing policies to reduce emissions from industrial sources, and implementing vehicle emissions standards. Additionally, individuals can do their part to reduce air pollution by reducing car use, avoiding burning materials such as wood, and changing to energy efficient appliances.",
+        "zh_instruction": "我们怎样才能减少空气污染?",
+        "zh_input": "",
+        "zh_output": "有很多方法可以减少空气污染，例如转向可再生能源，鼓励使用公共交通工具，禁止燃烧化石燃料，实施减少工业排放的政策，并设立车辆排放标准。此外，个人也可以通过减少汽车使用，避免燃烧木材等材料，以及更换为节能的电器来贡献自己的一份力量。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Describe a time when you had to make a difficult decision.",
+        "en_input": "",
+        "en_output": "I had to make a difficult decision when I was working as a project manager at a construction company. I was in charge of a project that needed to be completed by a certain date in order to meet the client’s expectations. However, due to unexpected delays, we were not able to meet the deadline and so I had to make a difficult decision. I decided to extend the deadline, but I had to stretch the team’s resources even further and increase the budget. Although it was a risky decision, I ultimately decided to go ahead with it to ensure that the project was completed on time and that the client’s expectations were met. The project was eventually successfully completed and this was seen as a testament to my leadership and decision-making abilities.",
+        "zh_instruction": "描述一次你不得不做出艰难决策的时刻。",
+        "zh_input": "",
+        "zh_output": "我在一家建筑公司担任项目经理时，曾经遇到过一次艰难的决策。我负责的一个项目需要在特定日期前完成，以满足客户的期望。然而，由于意外的延误，我们无法按时完成，因此我不得不做出一个艰难的决定。我决定延长截止日期，但不得不进一步挤压团队的资源并增加预算。虽然这是一个有风险的决定，但为了确保项目按时完成并满足客户的期望，我最终决定这样做。项目最终成功完成，这被视为我领导力和决策能力的证明。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Identify the odd one out.",
+        "en_input": "Twitter, Instagram, Telegram",
+        "en_output": "Telegram",
+        "zh_instruction": "找出一个与其他不同的选项。",
+        "zh_input": "Twitter，Instagram，Telegram",
+        "zh_output": "Telegram",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Explain why the following fraction is equivalent to 1/4",
+        "en_input": "4/16",
+        "en_output": "The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.",
+        "zh_instruction": "解释为什么下面的分数等于1/4",
+        "zh_input": "4/16",
+        "zh_output": "分数4/16等于1/4，因为4可以同时除尽分子和分母。把分子和分母都除以4，得到的分数就是1/4。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+        "en_input": "",
+        "en_output": "John was at a crossroads in his life. He had just graduated college and was now facing the big decision of what career to pursue. After much deliberation, he decided that he wanted to be an accountant and help the financially disadvantaged. He had always been good with numbers and enjoyed seeing the tangible results of his work. \n\nJohn enrolled in accounting courses and initially found it quite challenging. He had to learn multiple systems and regulations quickly, but he worked hard and eventually excelled in his studies. After a few years, John started working at an accounting firm in his city. He was eager to put his knowledge of taxes and accounting to use in a real-world setting.\n\nJohn loved his job, as it let him express his creativity in finding strategies to save his clients money. After a few years at the firm, he became a senior accountant and was asked to manage bigger and more challenging cases. He was now a respected figure in the financial industry, but he still remembers when he was just a recent college graduate, unsure of the direction in which his life would take him.",
+        "zh_instruction": "用第三人称叙述写一个关于主人公需要做出重要职业决定的短故事。",
+        "zh_input": "",
+        "zh_output": "约翰在人生的十字路口。他刚刚大学毕业，现在面临着一个重要的职业决定。经过深思熟虑，他决定成为一名会计师，帮助那些经济困难的人。因为他一直擅长数字，并且喜欢看到自己工作的实际成果。\n\n约翰报名参加了会计课程，起初觉得非常具有挑战性。他不得不快速学习多种系统和法规，但他努力学习并最终在学业上取得了优异成绩。几年后，约翰开始在他所在城市的一家会计事务所工作。他渴望在实际环境中运用自己的税务和会计知识。\n\n约翰热爱他的工作，因为这让他可以灵活运用策略来为客户节省开支。几年后，他成为了高级会计师，并被要求处理更大更有挑战性的案件。现在他在金融业中已是一个受人尊敬的人物，但他仍然记得刚从大学毕业时，那时他还不确定自己的人生将走向何方。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Render a 3D model of a house",
+        "en_input": "",
+        "en_output": "Before you get out the hardware, use software like free floor-plan apps and augmented-reality tools to sketch out the ideas for your remodeling projects. You can find plenty of home-design apps in a range of prices in your app store. And some retailer apps, like those from Build.com and Wayfair, use augmented reality to show virtual objects like furniture in a room",
+        "zh_instruction": "渲染一个房子的3D模型",
+        "zh_input": "",
+        "zh_output": "在拿出硬件之前，先利用免费的平面图应用程序和增强现实工具来绘制你装修项目的想法。你可以在应用商店中找到很多价格不同的家装设计应用程序。一些零售商的应用程序，如Build.com和Wayfair，通过增强现实展示房间中的虚拟家具。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Evaluate this sentence for spelling and grammar mistakes",
+        "en_input": "He finnished his meal and left the resturant",
+        "en_output": "He finished his meal and left the restaurant.",
+        "zh_instruction": "评估这个句子的拼写和语法错误",
+        "zh_input": "He finnished his meal and left the resturant",
+        "zh_output": "He finished his meal and left the restaurant.",
+        "metadata": {
+            "translated": true
+        }
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "en_instruction": "What does “algorithm” mean?",
+        "en_input": "",
+        "en_output": "An algorithm is a step-by-step set of instructions used to solve a problem or achieve a goal. It is a process of breaking down complex tasks into smaller, more manageable steps. Algorithms can be used to find the shortest path from one place to another, sort data, or render data from an immense database in a few seconds.",
+        "zh_instruction": "“算法”是什么意思？",
+        "zh_input": "",
+        "zh_output": "算法是一组逐步指令，用来解决问题或实现目标。它是将复杂任务分解为更小、更易管理的步骤的过程。算法可以用来找到从一个地方到另一个地方的最短路径，对数据进行排序，或者在几秒钟内从庞大的数据库中呈现数据。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "List some famous works of art from the renaissance period.",
+        "en_input": "",
+        "en_output": "Famous works of art from the Renaissance period include Leonardo da Vinci's Mona Lisa, Michelangelo's Sistine Chapel ceiling, Raphael's The School of Athens, Jan van Eyck's Ghent Altarpiece, Sandro Botticelli's The Birth of Venus, and Donatello's David.",
+        "zh_instruction": "列出一些文艺复兴时期著名的艺术作品。",
+        "zh_input": "",
+        "zh_output": "文艺复兴时期的著名艺术作品包括达芬奇的《蒙娜丽莎》、米开朗基罗的西斯廷教堂天顶画、拉斐尔的《雅典学派》、扬·范·艾克的《根特祭坛画》、桑德罗·波提切利的《维纳斯的诞生》以及多纳泰罗的《大卫》。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Consider the following sentence: \"I was born in the United States\". Provide the part of speech for the word “born”.",
+        "en_input": "",
+        "en_output": "The word \"born\" is a verb in the past participle form.",
+        "zh_instruction": "请考虑以下句子：\"I was born in the United States\"。请提供单词“born”的词性。",
+        "zh_input": "",
+        "zh_output": "单词\"born\"是动词的过去分词形式。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Describe the process for creating a PowerPoint presentation",
+        "en_input": "",
+        "en_output": "Creating a PowerPoint presentation involves selecting a template and design, adding visuals such as pictures and videos, adding text and effects to content, organizing transitions and slides, and running a spell check and presentation review. To start, you will need to open PowerPoint (or another presentation software) and select a template or design that you can use for your presentation. Next, you can begin adding visuals such as pictures and videos, as well as text content, such as bullet points and headings. Afterwards, you can organize the transitions between slides and add effects such as animations to the presentation. Finally, you should review the presentation and run a spell check to ensure accuracy.",
+        "zh_instruction": "描述创建PowerPoint演示文稿的过程",
+        "zh_input": "",
+        "zh_output": "创建PowerPoint演示文稿的过程包括选择模板和设计、添加图片和视频等视觉元素、添加文字内容和效果、组织幻灯片之间的过渡、以及进行拼写检查和演示审核。首先，需要打开PowerPoint（或其他演示软件）并选择一个模板或设计来使用。接下来，可以开始添加图片和视频等视觉元素，以及诸如要点和标题等文本内容。之后，可以组织幻灯片之间的过渡，并添加如动画效果等内容。最后，应该审核整个演示文稿并进行拼写检查以确保准确性。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Brainstorm new ideas for an upcycling project.",
+        "en_input": "",
+        "en_output": "Upcycling projects can be as simple or as complex as you'd like. Here are some upcycling ideas to get you started:\n\n- Create a unique set of jewelry from old records by cutting, filing and sanding down the edges.\n- Re-imagine old bed frames into a hanging planter or a colorful bookcase.\n- Assemble a jigsaw rug from scrap fabric and an old doormat.\n- Transform cardboard boxes into a storage solution or a wind chime. \n- Create an indoor herb garden using old tin cans.\n- Refresh an old dresser with some new pulls and a fresh coat of paint. \n- Transform an old t-shirt into a tote bag.\n- Construct an artful bookshelf using recycled wood.\n- Build a piece of furniture from discarded pallets. \n- Crafting coasters from old records. \n- Transform an old pair of jeans into a modern purse.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "Create a cocktail recipe.",
+        "en_input": "",
+        "en_output": "This refreshing adult beverage is perfect for enjoying with friends in the warm summer months. \n\nIngredients:\n- Ice cubes\n- 2 ounces of vodka\n- 1 ounce of fresh lime juice\n- 1 ounce of honey syrup \n- 3-4 ounces of tonic\n- 1 lime wedge for garnish \n\nInstructions:\nFill an Old-Fashioned glass with ice. In a shaker, combine the vodka, lime juice, honey syrup and the juice from the lime wedge. Shake well to combine. Strain the mixture into the prepared glass and top off with tonic.\nGarnish with the lime wedge and serve.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "Create a program to find the sum of the numbers in a given list.",
+        "en_input": "[1, 2, 3, 4, 5]",
+        "en_output": "def sum_list(nums):\n   result = 0\n   for n in nums:\n      result += n\n   return result\n\nprint(sum_list([1, 2, 3, 4, 5]))\n\n# Output\n15",
+        "zh_instruction": "编写一个程序来计算给定列表中数字的和。",
+        "zh_input": "[1, 2, 3, 4, 5]",
+        "zh_output": "def sum_list(nums):\n   result = 0\n   for n in nums:\n      result += n\n   return result\n\nprint(sum_list([1, 2, 3, 4, 5]))\n\n# 输出\n15",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Convert the following measurement from cups to ounces.",
+        "en_input": "2 cups",
+        "en_output": "2 cups is equal to 16 ounces.",
+        "zh_instruction": "将以下测量值从杯转换为盎司。",
+        "zh_input": "2 杯",
+        "zh_output": "2 杯等于 16 盎司。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Write a function to print out the first letter of each word in a sentence",
+        "en_input": "Welcome to the world.",
+        "en_output": "def first_letter(sentence):\n   words = sentence.split(\" \") \n   for word in words:\n      print(word[0], end=\"\")\n   print()\n\nfirst_letter(\"Welcome to the world.\")\n\n# Output\nWttw.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "Brainstorm ideas for a new business.",
+        "en_input": "",
+        "en_output": "Starting a business can be an exciting adventure, but it requires a lot of planning. Here are some ideas to consider when thinking about a new business venture:\n\n- Start a delivery business that helps local restaurants reach customers.\n- Create an online marketplace that specializes in vintage goods.\n- Launch a content marketing agency to help businesses build an online presence.\n- Open a boutique bakery that focuses on vegan and gluten-free desserts.\n- Build an app that connects homeowners with local handymen. \n- Develop a web-based software program to manage documents and paperwork. \n- Become a virtual assistant and provide online services to entrepreneurs. \n- Launch a subscription box service that ships snacks and treats from around the world. \n- Open a bike tour business that allows tourists to explore the city.\n- Create an online store that specializes in eco-friendly lifestyle products.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    }
+]

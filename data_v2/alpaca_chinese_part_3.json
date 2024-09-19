@@ -1,0 +1,112 @@
+[
+    {
+        "en_instruction": "Simplify the following sentence using proper grammar rules.",
+        "en_input": "This task that is a bit too much for me",
+        "en_output": "This task is too much for me.",
+        "zh_instruction": "使用正确的语法规则简化以下句子。",
+        "zh_input": "这个任务对我来说有点太多了",
+        "zh_output": "这个任务对我来说太多了。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Explain why recycling is important.",
+        "en_input": "",
+        "en_output": "Recycling is important to preserve our natural resources, conserve energy, reduce pollution, and reduce the amount of waste that goes into landfills. Recycling helps us save valuable resources such as trees, water, and energy that would otherwise be wasted when making new products from raw materials. It also helps us lessen litter and pollution in our environment. Recycling also reduces the amount of methane gas released into our atmosphere, which helps reduce global warming and climate change. Recycling helps create jobs and boosts the economy, while at the same time helping reduce the need for landfills.",
+        "zh_instruction": "解释为什么回收利用很重要。",
+        "zh_input": "",
+        "zh_output": "回收利用对于保护我们的自然资源、节约能源、减少污染，以及减少进入垃圾填埋场的垃圾量非常重要。回收利用帮助我们节约宝贵的资源，如树木、水和能源，否则这些资源在从原材料制作新产品时就会被浪费。同时，它也有助于减少环境中的垃圾和污染。回收利用还能减少进入大气中的甲烷气体，从而帮助减缓全球变暖和气候变化。回收利用还创造就业机会，促进经济发展，同时减少对垃圾填埋场的需求。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Create a pictogram to show the meaning of the following phrase: \"The wheels on the bus go round and round.\"",
+        "en_input": "",
+        "en_output": "[Picture of a bus with circles around its wheels]",
+        "zh_instruction": "创建一个象形图来展示以下短语的意思：\"公共汽车的轮子转啊转。\"",
+        "zh_input": "",
+        "zh_output": "[图示：一辆公共汽车，车轮周围有圆圈]",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Design a poster about endangered species.",
+        "en_input": "",
+        "en_output": "[A poster with a picture of an endangered animal, such as a tiger or an elephant. The text should read \"Endangered Species - Help Save Our World\" and the background should show a globe with a red X over certain areas.]",
+        "zh_instruction": "设计一个关于濒危物种的海报。",
+        "zh_input": "",
+        "zh_output": "[海报上有一只濒危动物的图片，比如老虎或大象。文字内容为：\"濒危物种 - 帮助拯救我们的世界\"，背景显示地球，某些区域上有红色的X标记。]",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Identify a food item that starts with the letter \"D\".",
+        "en_input": "",
+        "en_output": "Donuts.",
+        "zh_instruction": "找出一种以字母“D”开头的食物。",
+        "zh_input": "",
+        "zh_output": "甜甜圈。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Pick a color from the given list and write its hex code.",
+        "en_input": "Blue, Yellow, Purple",
+        "en_output": "Blue - #0000FF",
+        "zh_instruction": "从给定的列表中选择一种颜色，并写出其十六进制代码。",
+        "zh_input": "蓝色，黄色，紫色",
+        "zh_output": "蓝色 - #0000FF",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Explain the concept of game design.",
+        "en_input": "",
+        "en_output": "Game design is the process of coming up with appealing and engaging gameplay experiences for players. It involves creating rules and objectives for the game, defining characters and setting, designing mechanics and systems, and determining the difficulty of the gameplay. The goal of game design is to create an enjoyable and immersive experience for the players.",
+        "zh_instruction": "解释游戏设计的概念。",
+        "zh_input": "",
+        "zh_output": "游戏设计是为玩家创造有吸引力和互动性的游戏体验的过程。它包括制定游戏规则和目标、定义角色和背景、设计机制和系统以及确定游戏的难度。游戏设计的目标是为玩家创造一个愉快和沉浸式的体验。例如：一个优秀的游戏设计通常会让玩家感到玩得停不下来。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Design an algorithm that sorts the following list of numbers in ascending order.",
+        "en_input": "[5, 2, 6, 1, 9]",
+        "en_output": "def bubbleSort(list): \n    n = len(list) \n\n    for i in range(n): \n   \n        for j in range(0, n-i-1): \n           \n            if list[j] > list[j+1] : \n                list[j], list[j+1] = list[j+1], list[j] \n  \nbubbleSort(list)",
+        "zh_instruction": "设计一个把以下数字列表按升序排列的算法。",
+        "zh_input": "[5, 2, 6, 1, 9]",
+        "zh_output": "def bubbleSort(list): \n    n = len(list) \n\n    for i in range(n): \n   \n        for j in range(0, n-i-1): \n           \n            if list[j] > list[j+1] : \n                list[j], list[j+1] = list[j+1], list[j] \n  \nbubbleSort(list)",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Create a dialogue between two characters about an alien invasion.",
+        "en_input": "",
+        "en_output": "Character 1: Have you heard about the reports of an alien invasion?\nCharacter 2: Yeah, I'm starting to think it might be true.\nCharacter 1: What makes you say that?\nCharacter 2: Well, I've been seeing some strange things around town, and I heard some pretty convincing rumors from a few people.",
+        "zh_instruction": "写一段关于外星人入侵的对话。",
+        "zh_input": "",
+        "zh_output": "角色1：你听说过外星人入侵的报道吗？\n角色2：是的，我开始觉得这可能是真的。\n角色1：为什么这么说？\n角色2：嗯，我在镇上看到一些奇怪的事情，而且听几个人说了一些很有说服力的传闻。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Name three books written by J. K. Rowling.",
+        "en_input": "",
+        "en_output": "Three books written by J.K. Rowling are \"Harry Potter and the Philosopher's Stone\", \"Harry Potter and the Chamber of Secrets\", and \"Harry Potter and the Deathly Hallows\".",
+        "zh_instruction": "列举三本J.K.罗琳写的书。",
+        "zh_input": "",
+        "zh_output": "J.K.罗琳写的三本书是《哈利·波特与魔法石》、《哈利·波特与密室》和《哈利·波特与死亡圣器》。",
+        "metadata": {
+            "translated": true
+        }
+    }
+]

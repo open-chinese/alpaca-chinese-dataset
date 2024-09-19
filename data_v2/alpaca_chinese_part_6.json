@@ -1,0 +1,112 @@
+[
+    {
+        "en_instruction": "Write a story that starts with the given line.",
+        "en_input": "At the bottom of the lake, something stirred.",
+        "en_output": "At the bottom of the lake, something stirred. The water began to ruffle and bubble, until suddenly a figure broke through the surface. It was a beautiful creature, with emerald green scales, fiery red hair and a smooth, gleaming black tail. She was the guardian of the lake, a magical and powerful being who had lived there for centuries. For years she had been protecting the lake and all the creatures that lived in it, creating a safe and peaceful space for them to grow and thrive. But now something was wrong and she had been awoken to protect this place from a new danger. Her eyes scanned the lake, searching for the source of the disturbance.",
+        "zh_instruction": "写一个以给定句子开头的故事。",
+        "zh_input": "在湖底，有什么东西在搅动。",
+        "zh_output": "在湖底，有什么东西在搅动。水开始起波纹和冒泡，突然一个身影冲破了水面。那是一个美丽的生物，拥有翡翠绿色的鳞片，火红色的头发和光滑闪亮的黑色尾巴。她是湖的守护者，一个拥有魔力和强大力量的存在，已经在那里居住了几个世纪。多年来，她一直保护着湖泊和所有生活在其中的生物，为他们创造了一个安全和平的成长空间。但现在出现了一些问题，她被唤醒来保护这个地方不受新危险的侵害。她的眼睛扫视着湖面，寻找扰动的源头。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Choose the statement that best suits the given context.",
+        "en_input": "Context: \nYou are talking to a close friend about the situation with your current job.\n\nA) I don't have many options.\nB) I have no other choice.\nC) I don't really have a decision to make.",
+        "en_output": "A) I don't have many options.",
+        "zh_instruction": "选择最适合给定语境的陈述。",
+        "zh_input": "语境:\n你正在和一个亲密的朋友谈论你当前工作的情况。\n\nA) 我没有太多选择。\nB) 我别无选择。\nC) 我没得选择。",
+        "zh_output": "A) 我没有太多选择。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Entitle the article based on the following description.",
+        "en_input": "Description: \nThis article is about a new method of teaching that has become popular recently.",
+        "en_output": "Exploring the Rise of Innovative Teaching Methods",
+        "zh_instruction": "根据以下描述为文章命名。",
+        "zh_input": "描述: \n这篇文章讨论了一种最近变得流行的新教学方法。",
+        "zh_output": "探讨创新教学方法的兴起",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Write a function that takes an array of numbers and sorts them in ascending order.",
+        "en_input": "[5, 2, 9, 7, 4, 1]",
+        "en_output": "function sortAscending(arr) { \n    return arr.sort((a, b) => a-b); \n};",
+        "zh_instruction": "编写一个函数，接收一个数字数组并按升序排列。",
+        "zh_input": "[5, 2, 9, 7, 4, 1]",
+        "zh_output": "function sortAscending(arr) { \n    return arr.sort((a, b) => a-b); \n};",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Explain why the output is not accurate",
+        "en_input": "Code:\n\nfunction addTwo(num1, num2) {\n return num1 + num2;\n}\n\nconsole.log(addTwo(4, 3));\n\nOutput: 6",
+        "en_output": "The output is accurate because the function addTwo adds num1 and num2 together, which in this case is 4 and 3, resulting in 6.",
+        "zh_instruction": "解释为什么输出不准确",
+        "zh_input": "代码：\n\nfunction addTwo(num1, num2) {\n return num1 + num2;\n}\n\nconsole.log(addTwo(4, 3));\n\n输出：6",
+        "zh_output": "输出是准确的，因为函数 addTwo 将 num1 和 num2 相加，这里的参数是 4 和 3，结果是 6。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Create a JSON object based on the given description.",
+        "en_input": "Description:\n\nThe age of the person is 23. The gender is male and the name is Gerard.",
+        "en_output": "{\"name\": \"Gerard\", \n\"age\": 23, \n\"gender\": \"male\"\n}",
+        "zh_instruction": "根据给定的描述创建一个 JSON 对象。",
+        "zh_input": "描述：\n\n这个人的年龄是23岁。性别是男性，名字是Gerard。",
+        "zh_output": "{\"name\": \"Gerard\", \n\"age\": 23, \n\"gender\": \"male\"\n}",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Word the following sentence in the positive.",
+        "en_input": "He did not finish the task.",
+        "en_output": "He did not yet complete the task.",
+        "zh_instruction": "将以下句子用肯定形式表达。",
+        "zh_input": "他没有完成任务。",
+        "zh_output": "他还没有完成任务。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Convert the sentence into the interrogative form.",
+        "en_input": "I will take the bus.",
+        "en_output": "Will I take the bus?",
+        "zh_instruction": "将句子转换成疑问句形式。",
+        "zh_input": "我会坐公交车。",
+        "zh_output": "我会坐公交车吗？",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Given the context, determine if the statement is true or false.",
+        "en_input": "Context: \nThe sun is not the largest star in the universe. \nStatement:\nThe sun is the smallest star in the universe.",
+        "en_output": "False",
+        "zh_instruction": "根据上下文，判断陈述是真还是假。",
+        "zh_input": "上下文：\n太阳不是宇宙中最大的恒星。\n陈述：\n太阳是宇宙中最小的恒星。",
+        "zh_output": "假",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Read the sentence, identify any typos and correct them.",
+        "en_input": "The accomadation was deacent.",
+        "en_output": "The accommodation was decent.",
+        "zh_instruction": "阅读句子，发现并纠正其中的错别字。",
+        "zh_input": "The accomadation was deacent.",
+        "zh_output": "The accommodation was decent.",
+        "metadata": {
+            "translated": true
+        }
+    }
+]

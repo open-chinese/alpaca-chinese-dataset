@@ -1,0 +1,112 @@
+[
+    {
+        "en_instruction": "Generate a chessboard with the given size and with pieces at the specified positions.",
+        "en_input": "Size: 8x8 \nPiece positions:\nWhite Rook at H8\nWhite Pawn at B3\nBlack Pawn at A3\nBlack Rook at H2",
+        "en_output": "![Image of 8x8 chessboard](https://i.imgur.com/G8HyAoo.png)",
+        "zh_instruction": "生成一个具有指定大小和指定位置棋子的棋盘。",
+        "zh_input": "尺寸: 8x8 \n棋子位置:\n白车在 H8\n白兵在 B3\n黑兵在 A3\n黑车在 H2",
+        "zh_output": "![8x8 棋盘图像](https://i.imgur.com/G8HyAoo.png)",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Find a word in the sentence that is used as a noun.",
+        "en_input": "Sentence: She went to the store to buy some apples.",
+        "en_output": "Store.",
+        "zh_instruction": "在句子中找到一个用作名词的词。",
+        "zh_input": "句子: 她去商店买了一些苹果。",
+        "zh_output": "商店。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Write pseudocode for a Merge Sort algorithm.",
+        "en_input": "",
+        "en_output": "MergeSort(A, startIndex, endIndex):\n    // If there is only one element in the array, return\n    if startIndex == endIndex:\n        return\n\n    middleIndex = (startIndex + endIndex) / 2\n\n    // Sort the left half of the array\n    MergeSort(A, startIndex, middleIndex)\n\n    // Sort the right half of the array\n    MergeSort(A, middleIndex + 1, endIndex)\n\n    // Merge the two sorted arrays\n    Merge(A, startIndex, endIndex)\n\nMerge(A, startIndex, endIndex):\n    middleIndex = (startIndex + endIndex) / 2\n    leftIndex = startIndex\n    rightIndex = middleIndex + 1\n\n    // Temporary array to hold the sorted array\n    tempArray[]\n\n    // Iterate through both halves of the array\n    for i in range(startIndex, endIndex+1):\n        // If left half is done iterating, add from right half\n        if leftIndex > middleIndex:\n            tempArray[i] = A[rightIndex]\n            rightIndex++\n\n        // If right half is done iterating, add from left half\n        else if rightIndex > endIndex:\n            tempArray[i] = A[leftIndex]\n            leftIndex++\n\n        // Compare current element and add the smaller element\n        else if A[leftIndex] < A[rightIndex]:\n            tempArray[i] = A[leftIndex]\n            leftIndex++\n        else:\n            tempArray[i] = A[rightIndex]\n            rightIndex++\n\n    // Copy the tempArray back to A\n    for i in range(startIndex, endIndex+1):\n        A[i] = tempArray[i]",
+        "zh_instruction": "编写归并排序算法的伪代码。",
+        "zh_input": "",
+        "zh_output": "MergeSort(A, startIndex, endIndex):\n    // 如果数组中只有一个元素，则直接返回\n    if startIndex == endIndex:\n        return\n\n    middleIndex = (startIndex + endIndex) / 2\n\n    // 排序数组的左半部分\n    MergeSort(A, startIndex, middleIndex)\n\n    // 排序数组的右半部分\n    MergeSort(A, middleIndex + 1, endIndex)\n\n    // 合并两个已排序的数组\n    Merge(A, startIndex, endIndex)\n\nMerge(A, startIndex, endIndex):\n    middleIndex = (startIndex + endIndex) / 2\n    leftIndex = startIndex\n    rightIndex = middleIndex + 1\n\n    // 临时数组来存放排序后的结果\n    tempArray[]\n\n    // 遍历数组的两部分\n    for i in range(startIndex, endIndex+1):\n        // 如果左半部分已经遍历完，从右半部分添加\n        if leftIndex > middleIndex:\n            tempArray[i] = A[rightIndex]\n            rightIndex++\n\n        // 如果右半部分已经遍历完，从左半部分添加\n        else if rightIndex > endIndex:\n            tempArray[i] = A[leftIndex]\n            leftIndex++\n\n        // 比较当前元素并添加较小的那个\n        else if A[leftIndex] < A[rightIndex]:\n            tempArray[i] = A[leftIndex]\n            leftIndex++\n        else:\n            tempArray[i] = A[rightIndex]\n            rightIndex++\n\n    // 将 tempArray 中的内容拷贝回 A\n    for i in range(startIndex, endIndex+1):\n        A[i] = tempArray[i]",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Provide a evidence explaining why the following code is incorrect.",
+        "en_input": "def add(a, b):\n    return a + b",
+        "en_output": "The code above is incorrect because it does not handle cases when any one or both of the arguments are of type 'list'. It would throw a TypeError since the '+' operator cannot be used to concatenate lists. To make it work with any type of arguments, the code should be modified as follows:\n\ndef add(a, b):\n    if type(a) is list and type(b) is list:\n        return a + b\n    else:\n        return int(a) + int(b)",
+        "zh_instruction": "提供证据解释以下代码为何不正确。",
+        "zh_input": "def add(a, b):\n    return a + b",
+        "zh_output": "上述代码不正确，因为它没有处理任一或两个参数为 'list' 类型的情况。如果使用 '+' 运算符来连接列表会引发 TypeError。为了使代码能处理任意类型的参数，应当将其修改如下：\n\ndef add(a, b):\n    if type(a) is list and type(b) is list:\n        return a + b\n    else:\n        return int(a) + int(b)",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Compare and contrast Object-Oriented Programming and Functional Programming.",
+        "en_input": "",
+        "en_output": "Object-oriented programming (OOP) and functional programming (FP) are two distinct programming paradigms that have different approaches to the development and structure of software programs. \n\nIn OOP, the focus is on creating objects, which are interfaces to real-world entities and data structured data. OOP encourages code reuse and extensibility with an emphasis on code organization and modularity. It also relies heavily on classes, which define how objects should behave, and objects that follow the rules defined by the classes.\n\nFunctional programming focuses on the evaluation of expressions and functions that take inputs and return outputs. It avoids using shared state or mutable data, instead opting to use pure functions. The emphasis on declarative programming and stateless functions makes FP code easier to debug, test and reuse.\n\nIn OOP, the underlying methodology of programming revolves around objects and methods. Whereas, in Functional Programming, the underlying methodology revolves around mathematical functions. OOP uses classes as templates for objects that represent real-world entities, whereas FP relies heavily on composition to create functions from simpler ones. Finally, OOP emphasizes on mutable data, whereas FP emphasizes on immutable data.",
+        "zh_instruction": "比较和对比面向对象编程和函数式编程。",
+        "zh_input": "",
+        "zh_output": "面向对象编程（OOP）和函数式编程（FP）是两种不同的编程范式，它们在软件程序的开发和结构上有不同的方法。\n\n在OOP中，重点在于创建对象，这些对象是现实世界实体和数据结构化数据的接口。OOP鼓励代码复用和扩展，强调代码组织和模块化。它非常依赖于类，类定义了对象应该如何表现，而对象遵循类定义的规则。\n\n函数式编程专注于表达式和函数的评估，这些函数接受输入并返回输出。它避免使用共享状态或可变数据，而是选择使用纯函数。对声明式编程和无状态函数的强调使得FP代码更容易调试、测试和复用。\n\n在OOP中，编程的基本方法围绕对象和方法展开。相反，在函数式编程中，基本方法围绕数学函数展开。OOP使用类作为对象的模板，这些对象代表现实世界的实体，而FP主要依靠组合从简单函数创建复杂函数。最后，OOP强调可变数据，而FP强调不可变数据。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Compose a tweet explaining why Python is a popular programming language.",
+        "en_input": "",
+        "en_output": "Python is a popular programming language thanks to its efficient code, easy-to-use syntax, robust libraries, scalability and flexibility for developers. #Programming #Python #Developers",
+        "zh_instruction": "撰写一条推文，解释为什么Python是一种受欢迎的编程语言。",
+        "zh_input": "",
+        "zh_output": "Python是一种受欢迎的编程语言，因为它的代码高效，语法易用，库功能强大，适用性广且灵活。#编程 #Python #开发者",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Rewrite the following statement using formal English.",
+        "en_input": "She ain't got no money.",
+        "en_output": "She does not have any money.",
+        "zh_instruction": "用正式英语改写以下句子。",
+        "zh_input": "She ain't got no money.",
+        "zh_output": "She does not have any money.",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Find and explain the fallacy in the following argument.",
+        "en_input": "All birds can fly, so all mammals must be able to fly as well.",
+        "en_output": "This argument is a false analogy because it assumes a causative relationship between two unrelated categories (birds and mammals). It is fallacious because birds and mammals have different physical and behavioral attributes, and the fact that birds have the ability to fly does not necessarily mean that all mammals have the same ability. Therefore, the conclusion - all mammals must be able to fly - does not logically follow from the premise.",
+        "zh_instruction": "找到并解释以下论证中的谬误。",
+        "zh_input": "所有鸟类都会飞，所以所有哺乳动物也一定会飞。",
+        "zh_output": "这个论证是一个错误类比，因为它假设了两个不相关的类别（鸟类和哺乳动物）之间存在因果关系。这是错误的，因为鸟类和哺乳动物具有不同的身体和行为特征，鸟类会飞并不意味着所有哺乳动物也会飞。因此，结论——所有哺乳动物都会飞——并不逻辑地从前提中得出。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Explain the difference between gradient descent and a genetic algorithms.",
+        "en_input": "",
+        "en_output": "Gradient descent and genetic algorithms are both optimization techniques used to arrive at an optimal solution to a problem. Gradient descent is a iterative optimization technique which moves in the direction of the greatest slope of a given function. It is a single step optimization technique and is used for supervised learning problems. \n\nGenetic algorithms are a type of search algorithm that use the principles of evolution, including selection, mutation and recombination, to evolve a solution to a problem. This is a multi-step optimization technique and is used for both supervised and unsupervised learning problems. It uses a population of solutions based on randomly generated rules to search for an optimal solution. The genetic algorithm evaluates each solution in the population and then selects which ones should proceed to the next generation.",
+        "zh_instruction": "解释梯度下降和遗传算法之间的区别。",
+        "zh_input": "",
+        "zh_output": "梯度下降和遗传算法都属于优化技术，用于寻找问题的最优解。梯度下降是一种迭代优化技术，它朝着给定函数最大的斜率方向移动。这是一种单步优化技术，通常用于监督学习问题。\n\n遗传算法是一种基于进化原理的搜索算法，包括选择、变异和重组，用于进化问题的解决方案。这是一种多步优化技术，可用于监督学习和非监督学习问题。它使用基于随机生成规则的一组解来搜索最优解。遗传算法评估群体中的每个解，然后选择哪些解应该进入下一代。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Please provide input to complete the following sentence.",
+        "en_input": "The most common form of depression is ______.",
+        "en_output": "The most common form of depression is major depressive disorder.",
+        "zh_instruction": "请提供输入以完成以下句子。",
+        "zh_input": "最常见的抑郁症类型是______。",
+        "zh_output": "最常见的抑郁症类型是重度抑郁症。",
+        "metadata": {
+            "translated": true
+        }
+    }
+]

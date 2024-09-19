@@ -51,6 +51,6 @@ class WordUtil:
 
 
 if __name__ == '__main__':
-    s = '   Hellowho are   you     '
-    n = WordUtil.count_en_words2(s)
+    s = '   Hellowho are   you     ..'
+    n = WordUtil.count_en_words_fast(s)
     print(n)

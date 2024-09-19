@@ -1,0 +1,112 @@
+[
+    {
+        "en_instruction": "Explain what a \"food desert\" is and why they are a problem.",
+        "en_input": "",
+        "en_output": "A \"food desert\" is an area with little or no access to affordable, healthy food options. It is typically an urban area with a combination of high poverty and few supermarkets or other sources of healthy food. Food deserts lead to an array of health problems such as obesity, diabetes, and malnutrition due to the lack of access to fresh and nutritious food.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "Describe the process for getting a loan for a home purchase.",
+        "en_input": "",
+        "en_output": "The process of getting a loan for a home purchase generally involves taking the necessary steps to get pre-approved for a loan, working with a real estate agent to find a suitable home, submitting an offer for the chosen home, and having the offer accepted by the seller. Once the offer is accepted, the loan application is submitted and the lender determines the loan terms and conditions, such as interest rate and repayment terms. Once the loan is approved and all terms of the loan are agreed upon, the loan documents are signed and the home is purchased.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "Design a system to mitigate the effects of climate change.",
+        "en_input": "",
+        "en_output": "A comprehensive system to mitigate the effects of climate change should have multiple components. On a global scale, there should be an effective policy framework that reduces emissions, encourages energy conservation, and promotes the use of renewable energy sources. On a local level, there should be programs to help communities adapt to the changing climate and build resilience against the impacts of climate change. Additionally, measures such as reforestation, habitat restoration and land management should be implemented to reduce emissions and promote sustainability.",
+        "zh_instruction": "设计一个减缓气候变化影响的系统。",
+        "zh_input": "",
+        "zh_output": "一个全面的减缓气候变化影响的系统应包含多个部分。在全球范围内，应该有一个有效的政策框架，以减少排放、鼓励节能和促进可再生能源的使用。在地方层面，应该有帮助社区适应气候变化并增强对气候变化影响的抵御力的项目。此外，还应实施诸如重新造林、栖息地恢复和土地管理等措施，以减少排放和促进可持续发展。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Develop a plan for how to de-escalate a dispute between two people.",
+        "en_input": "",
+        "en_output": "One effective way to de-escalate a dispute between two people is to set aside time and come up with a plan together. This plan should include rational and constructive steps to explore and address the issues of the dispute. This could include having the parties express and reflect on their feelings, raising and acknowledging valid points, and brainstorming solutions or compromises. By providing a calm and safe environment and focusing on understanding, communicating, and resolving the conflict, it is possible to de-escalate the dispute and find a mutually acceptable solution.",
+        "zh_instruction": "制定一个解决两人之间争端的计划。",
+        "zh_input": "",
+        "zh_output": "解决两人之间争端的一种有效方法是共同抽出时间制定一个计划。该计划应包括理性和建设性步骤，以探讨和解决争端中的问题。这可能包括让双方表达和反思自己的感受、提出和承认有效观点以及集思广益寻找解决方案或妥协。通过提供一个冷静和安全的环境，专注于理解、沟通和解决冲突，可以缓和争端并找到双方都能接受的解决方案。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Describe the immigration process to the US.",
+        "en_input": "",
+        "en_output": "The immigration process to the US involves three main stages: applying for a visa, attending an interview at a US embassy or consulate, and applying for a green card or other immigration status. The visa application requires filling out an online form, submitting documents and financial information, and attending an appointment for biometric testing. The visa interview at the embassy or consulate typically involves questions about the applicant's background and circumstances as well as providing additional documents. Finally, the green card application requires submitting a specific form, necessary documents and a filing fee.",
+        "zh_instruction": "描述美国的移民过程。",
+        "zh_input": "",
+        "zh_output": "美国的移民过程主要包括三个阶段：申请签证、参加美国大使馆或领事馆的面试，以及申请绿卡或其他移民身份。签证申请需要填写在线表格、提交文件和财务信息，并参加生物识别测试的预约。大使馆或领事馆的签证面试通常涉及关于申请人背景和情况的提问，并需要提供额外的文件。最后，绿卡申请需要提交特定的表格、必要的文件及费用。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Design a safety plan for schools in the event of an armed intruder.",
+        "en_input": "",
+        "en_output": "A safety plan for schools in the event of an armed intruder should include steps for staff and students to take before, during, and after an intruder enters the premises. Before an intruder enters, staff should regularly practice drills and teach students what to do if there is an emergency. During an intruder's presence, staff should secure classrooms, institute a lockdown procedure, and inform authorities. After the intruder has left, staff should provide crisis support to students and assess the safety of the premises.",
+        "zh_instruction": "为学校设计面对武装入侵者时的安全计划。",
+        "zh_input": "",
+        "zh_output": "面对武装入侵者时，学校的安全计划应包括在入侵者进入之前、期间和之后，师生应采取的措施。入侵者进入之前，工作人员应定期进行演习，教授学生在紧急情况下应采取的措施。入侵者在场期间，工作人员应锁定教室，启动封锁程序并通知当局。入侵者离开后，工作人员应为学生提供危机支持并评估校园的安全性。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Describe a time when you received excellent customer service.",
+        "en_input": "",
+        "en_output": "I recently had an exceptional customer service experience at a local restaurant. The waitress was incredibly helpful, friendly and delivered my order quickly. She always checked to make sure I was okay and comfortable. She even ended up giving me a discount due to a mistake in my order. I left feeling very satisfied and happy with the service I received.",
+        "zh_instruction": "描述一次您获得优质客户服务的经历。",
+        "zh_input": "",
+        "zh_output": "我最近在一家本地餐馆体验了一次卓越的客户服务。服务员非常热心、友好，并且迅速地送上了我的订单。她还时常过来确认我是否一切都好和舒适。由于我的订单出现了一个小错误，她甚至给我打了折扣。我离开时对所得到的服务感到非常满意和高兴。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Classify these items into categories.",
+        "en_input": "Car, plane, boat",
+        "en_output": "These items can be classified as vehicles: Car, plane, and boat.",
+        "zh_instruction": "将这些物品分类。",
+        "zh_input": "Car, plane, boat",
+        "zh_output": "这些物品可以分类为交通工具：Car, plane, 和 boat。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Write a persuasive paragraph to support a point of view.",
+        "en_input": "The health benefits of a vegetarian diet",
+        "en_output": "There are numerous benefits to adopting a vegetarian diet. Not only does it eliminate the health risks associated with consuming meat products, such as high levels of fat and cholesterol that can lead to heart disease, but it also reduces the risk of certain types of cancer. A vegetarian diet is also rich in fiber, vitamins, and minerals, helping to ensure that an individual is getting all the nutrients they need to stay healthy. Studies have also found that people who adhere to a vegan diet have a lower body mass index and a lower risk of developing type 2 diabetes. Clearly, the health benefits associated with a vegetarian diet are too great to ignore.",
+        "zh_instruction": "写一段有说服力的文字来支持一个观点。",
+        "zh_input": "素食饮食的健康益处",
+        "zh_output": "采用素食饮食有众多益处。不仅可以消除与食用肉类产品相关的健康风险，如高脂肪和胆固醇水平会导致心脏病，还可以减少某些类型癌症的风险。素食饮食还富含纤维、维生素和矿物质，帮助确保个人获得所有需要的营养以保持健康。研究还发现，坚持素食饮食的人体重指数较低，患2型糖尿病的风险也较低。显然，与素食饮食相关的健康益处不容忽视。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Summarize your last week.",
+        "en_input": "",
+        "en_output": "My last week was busy and productive. I completed several projects, exercised regularly, and had time to relax. I finished a few coding tasks at work, met with my team to discuss upcoming plans, and finished the first draft of a paper I’ve been working on. I also took a break to visit the local park with friends, play video games with my siblings, and take time to read a few books.",
+        "zh_instruction": "总结你的上周。",
+        "zh_input": "",
+        "zh_output": "我上周既忙碌又充实。我完成了几个项目，定期锻炼，还有时间放松。我在工作上完成了几个编程任务，与团队一起讨论了即将到来的计划，并完成了我一直在写的一篇论文的初稿。我还抽空和朋友一起去本地公园，和兄弟姐妹玩电子游戏，并花时间读了几本书。",
+        "metadata": {
+            "translated": true
+        }
+    }
+]

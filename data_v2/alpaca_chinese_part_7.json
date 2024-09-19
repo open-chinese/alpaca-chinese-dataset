@@ -1,0 +1,112 @@
+[
+    {
+        "en_instruction": "Explain why we should save water",
+        "en_input": "",
+        "en_output": "We should save water to conserve one of our most precious resources. Water is essential for life, both for human and environmental health. Reducing water use can help conserve water and keep it available to everyone. In addition, conserving water can help reduce energy use, and help reduce pollution by limiting the need to use other sources of water such as groundwater, streams, and rivers.",
+        "zh_instruction": "解释为什么我们应该节约用水",
+        "zh_input": "",
+        "zh_output": "我们应该节约用水，以保护我们最宝贵的资源之一。水对生命至关重要，无论是对人类还是环境健康。减少用水可以帮助节约水资源，使其能够供大家使用。此外，节约用水还可以减少能耗，减少污染，因为这样可以减少使用地下水、溪流和河流等其他水源的需求。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Spell 'HAPPY' using mathematical symbols",
+        "en_input": "",
+        "en_output": "H + (A+A) + (P+P) + Y",
+        "zh_instruction": "用数学符号拼写'HAPPY'",
+        "zh_input": "",
+        "zh_output": "H + (A+A) + (P+P) + Y",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Describe an example of customer service done right.",
+        "en_input": "",
+        "en_output": "An example of customer service done right is when a customer reaches out to a company with an issue or a complaint, and the company quickly responds by providing solutions or solutions that are tailored to the customer's needs. The customer service representative is patient and understanding, listens to the customer's concerns, and takes the customer's input into account when offering solutions. The representative is also friendly, courteous, and professional and goes out of their way to ensure the customer is satisfied with the outcome.",
+        "zh_instruction": "描述一个成功的客户服务案例。",
+        "zh_input": "",
+        "zh_output": "一个成功的客户服务案例是，当客户向公司反馈问题或投诉时，公司迅速回应，提供针对客户需求的解决方案。客户服务代表耐心且理解客户的担忧，并在提供解决方案时考虑客户的意见。客服代表还表现得友好、礼貌、专业，全力以赴确保客户对结果满意。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Provide a 2-sentence review of the following piece of work",
+        "en_input": "A podcast that explores the intersection between technology and mental wellbeing",
+        "en_output": "This podcast is a great overview of how technology has both increased and complicated issues of mental wellbeing. It provides an in-depth look at how changes to our daily life due to technology have impacted our mental health, discussing topics ranging from addiction and distraction to digital presence and isolation.",
+        "zh_instruction": "请对以下作品进行两句评价",
+        "zh_input": "探讨科技与心理健康交汇点的播客节目",
+        "zh_output": "这个播客很好地综述了科技如何既促进又复杂化了心理健康问题。它深入探讨了科技对我们日常生活的改变如何影响了我们的心理健康，涉及从成瘾和分心到数字存在和孤立等话题。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Describe the process of natural selection in 1-2 sentences.",
+        "en_input": "",
+        "en_output": "Natural selection is the process by which certain traits or characteristics become more or less common over time based on which organisms are more successful in surviving and reproducing.",
+        "zh_instruction": "用1-2句话描述自然选择的过程。",
+        "zh_input": "",
+        "zh_output": "自然选择是指某些特征或性状随着时间的推移，根据生物在生存和繁殖上的成功程度而逐渐变多或变少的过程。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Given a piece of news, rewrite it in a sarcastic tone.",
+        "en_input": "Google announced its new \"Business Suite\" for small businesses.",
+        "en_output": "What better way for small businesses to go above and beyond than to use yet another product from Google to make sure they maximize their already nonexistent profits!",
+        "zh_instruction": "给一条新闻，用讽刺的语气重新写一遍。",
+        "zh_input": "Google宣布其新的“小型企业商务套件”。",
+        "zh_output": "小企业还有什么比使用谷歌的又一款产品来确保他们最大化那个几乎不存在的利润更棒的办法呢！",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Generate an appropriate love poem title based on the given input.",
+        "en_input": "a rainy day",
+        "en_output": "A Love Soaked by the Rain",
+        "zh_instruction": "根据给定的输入生成一个合适的爱情诗标题。",
+        "zh_input": "一个雨天",
+        "zh_output": "雨中的爱",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Describe what self-awareness means in 1-2 sentences.",
+        "en_input": "",
+        "en_output": "Self-awareness is the capacity to recognize and understand our own emotions, values, and motives, as well as to be able to use this understanding to make decisions, take action, and interact with others.",
+        "zh_instruction": "用1-2句话描述自我意识的含义。",
+        "zh_input": "",
+        "zh_output": "自我意识是指识别和理解我们自己的情感、价值观和动机的能力，并且能够利用这种理解来做决定、采取行动和与他人互动。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Make a list of items for the perfect camping trip in the summer.",
+        "en_input": "",
+        "en_output": "- Tent\n- Sleeping bag\n- Camping stove\n- Insect repellent\n- Flashlight/lantern\n- Matches/lighter\n- Firewood\n- Camp chairs\n- Sun protection (sunscreen, sunglasses, hat)\n- First aid kit\n- Pocket knife\n- Water containers\n- Cooler\n- Dishes and utensils\n- Towels and washcloths\n- Cookware\n- Games, cards, and books\n- Binoculars\n- Portable charger",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "Summarize the article about the new computer system at the company.",
+        "en_input": "The company recently invested in a new computer system, which was created to help automate manual processes and increase efficiency. This system uses artificial intelligence to interpret customer data, automatically generate reports, and automate customer billing processes.",
+        "en_output": "The company recently invested in a new computer system which uses artificial intelligence to interpret customer data, generate reports, and automate customer billing processes. This system has been designed to increase efficiency and automate manual processes, and has the potential to reduce time and resources spent on traditional manual processes.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    }
+]

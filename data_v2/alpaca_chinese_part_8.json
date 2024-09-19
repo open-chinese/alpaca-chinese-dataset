@@ -1,0 +1,112 @@
+[
+    {
+        "en_instruction": "Create a story based around this opening line: “It was a dark and stormy night.”",
+        "en_input": "",
+        "en_output": "It was a dark and stormy night, and the wind was howling as if to warn of something sinister lurking in the shadows. Despite the weather, Thomas decided to venture out of his home to retrieve an item he had hidden in an old abandoned church. He had gone there to hide the item in hopes of one day returning for it, when the time was right. As he approached the church, a bolt of lightning lit up the night sky and he saw something moving behind the window. Unnerved by what he had seen, he quickly continued on his mission, opened the door and stepped inside. He was now face-to-face with the person he had come to retrieve the item from - a mysterious figure shrouded in darkness.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "Suggest a few ways to increase productivity.",
+        "en_input": "",
+        "en_output": "Here are a few ways to increase productivity: \n1. Set clear goals and prioritize tasks.\n2. Making use of time tracking software to monitor workflow. \n3. Eliminating distractions by setting aside designated work zones.\n4. Breaking down large projects into smaller tasks and taking breaks in between.  \n5. Setting a timer and working in short bursts.\n6. Keeping a to-do list to help plan and stay organized.\n7. Minimizing social media consumption to avoid distractions. \n8. Working on the most important tasks first, when your energy and focus are at their peak. \n9. Taking advantage of tools like automation and artificial intelligence to streamline processes.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "Explain why it is important to have an emergency plan.",
+        "en_input": "",
+        "en_output": "It is important to have an emergency plan in place in order to be prepared for any sudden or unexpected crisis. Having an emergency plan reduces the risk of injury or loss of life and property, and helps ensure that the necessary supplies, equipment and personnel are available when needed. An emergency plan also provides clear steps for individuals and organizations to take when responding to an emergency, increasing the speed and effectiveness of the response. Finally, having an emergency plan makes it easier for everyone involved to remain calm and to focus on the task of securing safety during the emergency situation.",
+        "zh_instruction": "解释为什么制定应急计划很重要。",
+        "zh_input": "",
+        "zh_output": "制定应急计划非常重要，以便为任何突然或意外的危机做好准备。拥有应急计划可以减少受伤或生命财产损失的风险，并确保在需要时可以获得必要的物资、设备和人员。应急计划还提供了明确的步骤，供个人和组织在应对紧急情况时遵循，从而提高响应的速度和效果。最后，拥有应急计划可以使所有相关人员更加冷静，并集中精力在紧急情况下保障安全。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Provide a 3-5 sentence summary of the following article:",
+        "en_input": "A new study has found that sea levels are rising faster than previously estimated, due to melting ice sheets in Greenland and Antarctica calling into question how much time we have to respond to climate change. The results, published in Nature, show that since 1992, sea levels have risen an average of 3.2 millimeters per year, significantly higher than the previous estimates of 2.8 millimeters. To calculate this number, the researchers used satellite data that more accurately measures the rising levels than ever before. The melting ice sheets, which together account for 75 percent of all the ice loss, have caused the situation to be worse than previously estimated.",
+        "en_output": "A new study published in Nature has found that sea levels have been rising faster than previously estimated, at an average rate of 3.2 millimeters per year since 1992. This significant jump can be attributed to melting ice sheets in Greenland and Antarctica. The satellite data used to come up with these numbers provides a more reliable assessment than ever before. The two ice sheets together account for 75 percent of all the ice loss, which only worsens the already bad situation.",
+        "zh_instruction": "用3-5句话总结以下文章：",
+        "zh_input": "一项新的研究发现，由于格陵兰和南极的冰盖融化，海平面上升的速度比以前估计的要快，这引发了人们对我们有多少时间应对气候变化的质疑。发表在《自然》上的研究结果显示，自1992年以来，海平面每年平均上升3.2毫米，远高于之前估计的2.8毫米。为了计算这个数字，研究人员使用了卫星数据，比以往更准确地测量了水位上升。冰盖融化，导致情况比以前估计的更糟糕。",
+        "zh_output": "发表在《自然》上的一项新研究发现，自1992年以来，海平面上升的速度比以前估计的要快，平均每年上升3.2毫米。这一显著的增长主要归因于格陵兰和南极的冰盖融化。用于得出这些数据的卫星数据提供了更加可靠的评估。格陵兰和南极的冰盖共同占据了所有冰损的75%，这使得情况比之前估计的更糟糕。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Generate a title for a research paper about animal rights.",
+        "en_input": "",
+        "en_output": "\"Fostering a Culture of Compassion: Perspectives on Animal Rights\"",
+        "zh_instruction": "为一篇关于动物权益的研究论文生成标题。",
+        "zh_input": "",
+        "zh_output": "\"培育慈悲文化：关于动物权益的视角\"",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Determine whether the following statement is true or false: \"Light travels faster than sound.\"",
+        "en_input": "",
+        "en_output": "True. Light travels at the speed of 299,792,458 meters per second, while sound travels at 343 meters per second.",
+        "zh_instruction": "判断以下陈述的真假：“光的传播速度比声音快。”",
+        "zh_input": "",
+        "zh_output": "真。光的传播速度为每秒299,792,458米，而声音的传播速度为每秒343米。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Identify 5 common symptoms of the flu.",
+        "en_input": "",
+        "en_output": "Common symptoms of the flu include fever, chills, body aches, fatigue, sore throat, headache, nausea, vomiting, and coughing.",
+        "zh_instruction": "列出流感的5个常见症状。",
+        "zh_input": "",
+        "zh_output": "流感的常见症状包括发烧、寒战、身体酸痛、疲劳、喉咙痛、头痛、恶心、呕吐和咳嗽。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Reverse engineer the following recipe ingredients to identify what dish it is for:",
+        "en_input": "-1/2 cup butter\n-2 tablespoons minced garlic\n-2 tablespoons all-purpose flour\n-1/2 teaspoon dried thyme\n-1/4 teaspoon pepper\n-2 cups chicken broth\n-1/4 cup dry white wine\n-1 pound boneless, skinless chicken breasts\n-2 tablespoons chopped fresh parsley",
+        "en_output": "The dish is for a garlic butter chicken.",
+        "zh_instruction": "反向分析以下食谱成分，确定这道菜是什么：",
+        "zh_input": "-1/2杯黄油\n-2汤匙蒜末\n-2汤匙普通面粉\n-1/2茶匙干百里香\n-1/4茶匙胡椒粉\n-2杯鸡汤\n-1/4杯干白葡萄酒\n-1磅去骨去皮鸡胸肉\n-2汤匙新鲜欧芹末",
+        "zh_output": "这道菜是蒜香黄油鸡。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Calculate the sum of 40 + 12.",
+        "en_input": "",
+        "en_output": "The sum of 40 + 12 is 52.",
+        "zh_instruction": "计算40 + 12的和。",
+        "zh_input": "",
+        "zh_output": "40 + 12的和是52。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Generate a list of five creative ideas for a virtual party.",
+        "en_input": "",
+        "en_output": "1. Virtual escape room with friends - everyone gets to compete in an online virtual escape room!\n2. Have a virtual book club - everyone can read a book and have a discussion about it online.\n3. Create a virtual art gallery - everyone can create their own virtual art gallery with their favorite artworks and discuss them online.\n4. Have a virtual cooking contest - everyone can share recipes and cook their own meals while competing to see who can make the most delicious dish!\n5. Have a virtual scavenger hunt - everyone can go hunting for various items, virtually, and see who can find all of their items the fastest.",
+        "zh_instruction": "生成五个虚拟派对的创意点子。",
+        "zh_input": "",
+        "zh_output": "1. 虚拟密室逃脱与朋友 - 大家可以在网上参加虚拟密室逃脱游戏进行竞争！\n2. 举办一个虚拟读书会 - 每个人都可以看一本书并在线讨论。\n3. 创建一个虚拟艺术馆 - 每个人都可以创建自己的虚拟艺术馆，展示他们最喜欢的艺术作品并在线讨论。\n4. 举办一场虚拟烹饪比赛 - 每个人都可以分享食谱并制作自己的餐点，看看谁能制作出最美味的菜肴！\n5. 举办一场虚拟寻宝比赛 - 每个人都可以寻找各种物品，看看谁能最快找到所有物品。",
+        "metadata": {
+            "translated": true
+        }
+    }
+]

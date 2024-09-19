@@ -1,0 +1,112 @@
+[
+    {
+        "en_instruction": "List 3 historical events related to the following country",
+        "en_input": "Canada",
+        "en_output": "The three historical events related to Canada are the Dominion of Canada's establishment in 1867, the adoption of the Canadian Flag in 1965, and the signing of the Canada-U.S. Free Trade Agreement in 1988.",
+        "zh_instruction": "列举3个与以下国家相关的历史事件",
+        "zh_input": "加拿大",
+        "zh_output": "与加拿大相关的三个历史事件是：1867年加拿大自治领的建立，1965年加拿大国旗的采用，以及1988年加拿大-美国自由贸易协定的签署。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Compare and contrast the effects of individual and societal performance",
+        "en_input": "",
+        "en_output": "Individual performance is related to the actions and decisions made by individuals while societal performance focuses on the actions and decisions of an entire group or organization. Individual performance is more focused on the needs and goals of the individual while societal performance is based on collective goals. Individual performance can be more easily measured and quantified while measuring the impact of societal performance can be more difficult as it usually involves evaluating the individual components making up the larger picture.",
+        "zh_instruction": "比较和对比个人表现和社会表现的影响",
+        "zh_input": "",
+        "zh_output": "个人表现与个人的行动和决策有关，而社会表现则关注整个群体或组织的行动和决策。个人表现更注重个人的需求和目标，而社会表现则基于集体的目标。个人表现更容易衡量和量化，而衡量社会表现的影响则更困难，因为它通常涉及评估构成整体的各个部分。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Architact a machine learning algorithm to solve the following problem",
+        "en_input": "Predict the stock market prices",
+        "en_output": "A suitable machine learning algorithm to solve this problem could be a supervised learning algorithm like Linear Regression, Random Forests, or Support Vector Machines. The input data could include historical stock prices, market trends, and other relevant financial indicators. The algorithm should then be trained on this data so that it can accurately predict stock prices.",
+        "zh_instruction": "设计一个机器学习算法来解决以下问题",
+        "zh_input": "预测股市价格",
+        "zh_output": "一个适合解决此问题的机器学习算法可以是监督学习算法，如线性回归、随机森林或支持向量机。输入数据可以包括历史股价、市场趋势和其他相关的金融指标。该算法应在这些数据上进行训练，以便能准确预测股价。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Formulate a strategy for a client company that is looking to improve their website's SEO.",
+        "en_input": "The client is a small business selling plumbing products online.",
+        "en_output": "I suggest that the client's website should focus on improving their SEO by optimizing the content of the webpage to include relevant keywords, as well as improving their internal linking structure. Additionally they should focus on improving their back-linking strategies, involving creating engaging social media content and reaching out to other sites that could link to their page. The website should also continue to update and create new content, as this will help keep their rankings high and potentially drive more traffic to the page. Furthermore, they should keep track of their website's analytics and monitor their performance, as this will help inform their future SEO strategies.",
+        "zh_instruction": "为客户公司制订一个改善其网站SEO的策略。",
+        "zh_input": "客户是一家在线销售管道产品的小企业。",
+        "zh_output": "我建议客户的网站应着重通过优化网页内容包括相关关键词来改善其SEO，同时改善内部链接结构。此外，他们还应注重提升反向链接策略，包括创建有吸引力的社交媒体内容和联系其他可以链接到他们页面的网站。网站还应继续更新和创建新内容，这将有助于保持高排名并可能吸引更多流量到页面。此外，他们应跟踪网站的分析数据并监控其性能，这将有助于制定未来的SEO策略。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Given the dataset, what type of learning algorithm is best suited?",
+        "en_input": "The dataset has 1000 rows of data with 12 features and is a binary classification problem.",
+        "en_output": "A Random Forest algorithm is suitable for this dataset, because it is fast to train, can handle a large number of features, can be used for both classification and regression problems, and is resistant to overfitting. Furthermore, the algorithm's ability to evaluate the importance of each feature can help to identify the most important features in the dataset. It can also provide insight into the data, which can be used to make further decisions about the model and its parameters.",
+        "zh_instruction": "给定数据集，哪种学习算法最适合？",
+        "zh_input": "数据集有1000行数据，包含12个特征，是一个二分类问题。",
+        "zh_output": "随机森林算法适合这个数据集，因为它训练速度快，可以处理大量特征，适用于分类和回归问题，并且抗过拟合能力强。此外，该算法评估每个特征重要性的能力有助于识别数据集中最重要的特征。还可以提供洞见，这些洞见可以用来对模型及其参数做出进一步的决定。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Find the square root of 156.",
+        "en_input": "",
+        "en_output": "The square root of 156 is 12.48664.",
+        "zh_instruction": "求156的平方根。",
+        "zh_input": "",
+        "zh_output": "156的平方根是12.48664。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "What challenges will an AI system face while trying to play chess?",
+        "en_input": "",
+        "en_output": "An AI system playing chess will face challenges such as recognizing patterns in the game, dealing with unknown moves, and understanding the implications of a certain strategy. It will also have to take into account the preferences of its opponent and anticipate their moves accordingly. Additionally, the AI system will have to maintain an efficient way of searching and evaluating various moves, in order to minimize its losses and maximize its success rate.",
+        "zh_instruction": "人工智能系统在尝试下棋时会面临哪些挑战？",
+        "zh_input": "",
+        "zh_output": "一个下棋的人工智能系统将面临诸如识别游戏中的模式、处理未知的棋步以及理解某些策略的影响等挑战。它还必须考虑对手的偏好，并据此预测对方的棋步。此外，人工智能系统还需要保持一种高效的搜索和评估各种棋步的方法，以尽量减少损失和最大化成功率。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "What could result from the following business decision?",
+        "en_input": "Increasing the price of a product by 10%",
+        "en_output": "Increasing the price of a product by 10% could result in an increase in revenue due to higher prices, but also in a decrease in overall demand as customers may be reluctant to purchase the product at a higher price. It could also lead to more competition in the marketplace as other companies offer lower prices for similar products. Additionally, it could have an effect on customer loyalty, as customers may switch to other brands that offer lower prices.",
+        "zh_instruction": "以下商业决策可能会产生什么结果？",
+        "zh_input": "将产品价格提高10%",
+        "zh_output": "将产品价格提高10%可能会由于价格上升导致收入增加，但同时也可能因客户对于更高价格的不愿购买而导致总体需求下降。这也可能会在市场上引发更多竞争，因其他公司可能会提供更低价格的类似产品。此外，这还可能对客户忠诚度产生影响，客户可能会转向提供更低价格的其他品牌。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Classify this sentence into one of the following topics: education, politics, technology, sports",
+        "en_input": "Apple's new Iphone was released today.",
+        "en_output": "Technology",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "How would you write the output of a program that evaluates the following input?",
+        "en_input": "2 + 3 =",
+        "en_output": "2 + 3 = 5.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    }
+]

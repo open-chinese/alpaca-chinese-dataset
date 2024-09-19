@@ -1,0 +1,112 @@
+[
+    {
+        "en_instruction": "How can we reduce water usage in our daily lives?",
+        "en_input": "",
+        "en_output": "1. Use water-efficient fixtures like showerheads and faucets. \n2. Use a basin or bucket to collect household wastewater tasks such as washing dishes and taking baths. \n3. Raise awareness of water-saving practices in our community. \n4. Check for water leaks in plumbing and irrigation systems and repair them promptly. \n5. Take shorter showers and use low flow showerheads to save water. \n6. Collect rainwater and use it for gardening or other non-drinking purposes. \n7. Turn off the tap when you are brushing your teeth or soaping your hands. \n8. Reduce the time you water your lawn. \n9. Reuse graywater (water from washing machine, bathroom sinks, and showers) as much as possible.\n10. Buy only energy-efficient dishwashers and washing machines.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "Edit the article to make it more engaging for the readers.",
+        "en_input": "Autonomous robots are computer-controlled machines that are programmed to carry out a specific task without any human input. Autonomous robots are increasingly used in a variety of industries, from manufacturing to healthcare to security.",
+        "en_output": "Autonomous robots are computer-controlled machines that are programmed to carry out a specific task without any human input, enabling new levels of efficiency, accuracy and reliability. Autonomous robots are increasingly used in a variety of industries, from manufacturing, where they can assemble complex components with precision and consistent quality, to healthcare, where they can assist with medical tests and procedures, to security, where they can monitor large areas and keep people and property safe. Autonomous robots can also reduce errors and increase safety in dangerous or hazardous environments, such as during inspections or repairs of industrial processes. Thanks to their versatility, autonomous robots are set to revolutionize the way we work, enabling us to make tasks simpler, faster and ultimately, more enjoyable.",
+        "zh_instruction": null,
+        "zh_input": null,
+        "zh_output": null,
+        "metadata": {
+            "translated": false
+        }
+    },
+    {
+        "en_instruction": "What strategies can a government use to reduce air pollution?",
+        "en_input": "",
+        "en_output": "1. Implement mandatory vehicle emission standards and incentive-based programs to reduce vehicles’ carbon footprints. \n2. Increase public transportation and reduce public dependence on cars. \n3. Increase awareness on the effects of air pollution and encourage citizens to reduce the generation of pollutants. \n4. Invest in research and development of renewable energy sources such as solar and wind energy. \n5. Install air pollution control devices such as scrubbers in factories and power plants. \n6. Utilize clean fuels for vehicles and factories. \n7. Implement better urban planning and control sprawl.\n8. Improve agricultural efficiency and reduce fertilizer and pesticide use. \n9. Plant more trees to reduce air pollution. \n10. Reduce the burning of wood, coal and biomass.",
+        "zh_instruction": "政府可以采取哪些策略来减少空气污染？",
+        "zh_input": "",
+        "zh_output": "1. 实施强制性车辆排放标准和基于激励的项目，以减少车辆的碳足迹。\n2. 增加公共交通，以减少公众对汽车的依赖。\n3. 提高对空气污染影响的认识，鼓励市民减少污染物的产生。\n4. 投资于太阳能和风能等可再生能源的研发。\n5. 在工厂和发电厂安装空气污染控制装置，如清洁器。\n6. 对车辆和工厂使用清洁燃料。\n7. 实施更好的城市规划和控制城市蔓延。\n8. 提高农业效率，减少肥料和农药的使用。\n9. 种植更多的树木以减少空气污染。\n10. 减少木材、煤炭和生物质的燃烧。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "How does the presence of renewable energy affect the environment?",
+        "en_input": "",
+        "en_output": "The presence of renewable energy sources can help to reduce air pollution and greenhouse gas emissions, since they produce no or low emissions of carbon dioxide, sulfur dioxide, and other air pollutants. Additionally, the use of renewable energy can lead to further advances in energy efficiency and improved energy use. Renewable energy sources can also help to reduce the dependence on fossil fuels, which can not only reduce emissions but also help to reduce the risk of global climate change. Finally, renewable energy can help to preserve natural resources and reduce the need to exploit more land and resources for energy production.",
+        "zh_instruction": "可再生能源的存在如何影响环境？",
+        "zh_input": "",
+        "zh_output": "由于可再生能源产生的二氧化碳、二氧化硫和其他空气污染物排放量低或没有排放，可再生能源的存在有助于减少空气污染和温室气体排放。此外，可再生能源的使用可以促进能源效率的进一步提高和能源使用的改进。可再生能源还可以帮助减少对化石燃料的依赖，这不仅可以减少排放，还可以降低全球气候变化的风险。最后，可再生能源可以帮助保护自然资源，减少为能源生产开发更多土地和资源的需要。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Explain how a neural network learns.",
+        "en_input": "",
+        "en_output": "A neural network is a type of machine learning algorithm that uses a collection of connected nodes to approximate functions that can map input variables to outputs. To learn the parameters of a neural network, the computer needs to adjust the weights of the connections between the nodes so that the network produces the correct output for given inputs. This adjustment process is called learning and is done by comparing the output that the network produces with the expected result and then using an optimization algorithm to tweak the weights so that the output of the network approaches the expected result. The process is repeated for multiple iterations with different inputs and expected outputs. Eventually, the weights of the connections between the nodes will be adjusted such that the output of the neural network matches the expected result, and the learning process will be complete.",
+        "zh_instruction": "解释神经网络是如何学习的。",
+        "zh_input": "",
+        "zh_output": "神经网络是一种使用多个互相连接的节点来近似输入和输出变量函数的机器学习算法。为了学习神经网络的参数，计算机需要调整节点之间连接的权重，使得网络能够对给定的输入产生正确的输出。这个调整过程称为学习，通过比较网络产生的输出与预期结果，然后使用优化算法调整权重，使得网络的输出逐步接近预期结果。这个过程会在不同的输入和预期输出下进行多次迭代。最终，节点之间连接的权重会被调整到使得神经网络的输出与预期结果相匹配，学习过程就完成了。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Give an example of a machine learning algorithm and explain how it works.",
+        "en_input": "",
+        "en_output": "A popular example of a machine learning algorithm is the Support Vector Machine (SVM). It is a supervised learning algorithm used for both classification and regression tasks. It works by plotting data points in an n-dimensional space, separated by a decision boundary or hyperplane in the space. The algorithm uses maximum margins, which are drawn as far as possible from data points of both classes. These margins help with creating the most optimal decision hyperplane. The algorithm then adjusts the decision hyperplane by taking into account errors made in the classification task and modifies the hyperplane accordingly.\n\nIn the end, the Support Vector Machine can perform the classification task with the optimal decision hyperplane, predicting the class of the data points.",
+        "zh_instruction": "给出一个机器学习算法的例子，并解释它是如何工作的。",
+        "zh_input": "",
+        "zh_output": "一个流行的机器学习算法例子是支持向量机（Support Vector Machine, SVM）。它是一种用于分类和回归任务的监督学习算法。它通过在n维空间中绘制数据点，并通过一个决策边界或超平面来分隔这些点。算法使用最大间隔，尽可能远离两类数据点，这些间隔帮助创建最优的决策超平面。然后算法通过考虑分类任务中的错误来调整决策超平面，并相应地修改超平面。\n\n最终，支持向量机会通过最优的决策超平面来执行分类任务，预测数据点的类别。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Describe how a recommender system works",
+        "en_input": "",
+        "en_output": "A recommender system is a type of information filtering system that uses user's past actions or preferences to suggest new items that the user may be interested in. The system works by first collecting data about user behavior and preferences, such as what items they often purchase or view online. This data is then used to create a personalized profile for the user, based on their past behaviors. The system can then recommend items that are tailored to the user's profile and interests, by analyzing the other items that similar users have purchased or viewed.",
+        "zh_instruction": "描述推荐系统的工作原理",
+        "zh_input": "",
+        "zh_output": "推荐系统是一种信息过滤系统，它根据用户过去的行为或偏好来建议用户可能感兴趣的新项目。系统首先收集用户的行为和偏好数据，例如他们经常购买或在线浏览的商品。这些数据然后被用来创建用户的个性化档案，基于他们过去的行为。然后，系统通过分析其他相似用户购买或浏览的商品，推荐适合用户档案和兴趣的项目。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Name five possible applications of artificial intelligence",
+        "en_input": "",
+        "en_output": "1. Automation and robots: AI can be used to automate and optimize industrial or manufacturing processes. \n2. Healthcare: AI can be used to diagnose and treat medical conditions, improve workflow efficiency in healthcare organizations, or provide personalized care to patients. \n3. Banking and finance: AI can be used to develop automated trading systems, enable more accurate fraud detection in financial transactions, and provide personalized financial advice. \n4. Image, speech and text recognition: AI can be used for tasks related to image recognition, speech synthesis, and natural language processing.\n5. Autonomous vehicles: AI can be used to develop autonomous cars, drones, and other vehicles that can operate without human intervention.",
+        "zh_instruction": "列举人工智能的五个可能应用",
+        "zh_input": "",
+        "zh_output": "1. 自动化和机器人: 人工智能可用于自动化和优化工业或制造过程。\n2. 医疗: 人工智能可用于诊断和治疗疾病，改进医疗组织的工作效率，或为患者提供个性化护理。\n3. 银行和金融: 人工智能可用于开发自动交易系统，实现更精准的金融交易欺诈检测，并提供个性化的财务建议。\n4. 图像、语音和文本识别: 人工智能可用于图像识别、语音合成和自然语言处理等任务。\n5. 自主车辆: 人工智能可用于开发无人驾驶汽车、无人机和其他能够自主操作的交通工具。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Give four examples of natural language processing tasks",
+        "en_input": "",
+        "en_output": "1. Text classification: This is the task of classifying text into predefined categories, such as sentiment classification or topic categorization.\n2. Text summarization: This is the task of generating a condensed summary of a text that retains its key information.\n3. Language translation: This is the task of translating text from one language to another, such as English to Spanish.\n4. Entity extraction: This is the task of extracting entities, such as names or places, from a text using natural language processing.",
+        "zh_instruction": "举出四个自然语言处理任务的例子",
+        "zh_input": "",
+        "zh_output": "1. 文本分类：这是将文本分类到预定义类别中的任务，例如情感分类或主题分类。\n2. 文本摘要：这是生成文本的简明摘要，同时保留其关键信息的任务。\n3. 语言翻译：这是将文本从一种语言翻译成另一种语言的任务，例如从英语翻译成西班牙语。\n4. 实体抽取：这是利用自然语言处理从文本中抽取实体的任务，例如名字或地点。",
+        "metadata": {
+            "translated": true
+        }
+    },
+    {
+        "en_instruction": "Convert the following sentence from one tense to another",
+        "en_input": "He is walking to the store.",
+        "en_output": "He was walking to the store.",
+        "zh_instruction": "将以下句子从一种时态转换为另一种时态",
+        "zh_input": "他正在走向商店。",
+        "zh_output": "他那时正在走向商店。",
+        "metadata": {
+            "translated": true
+        }
+    }
+]
