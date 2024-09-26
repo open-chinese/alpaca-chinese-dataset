@@ -67,7 +67,7 @@ The output should also be in json format, with index, and score based on above t
 '''
 
 
-batch_size = 50
+batch_size = 2
 total_files = 53
 
 
@@ -97,7 +97,7 @@ def get_score(items, i):
 
 def pipeline_run():
     # TODO update here
-    for i in range(13, 53):
+    for i in range(52, 53):
         data_file = '../data/alpaca_chinese_part_{0}.json'.format(i)
         output_file = '../data_v3/alpaca_chinese_part_{0}.json'.format(i)
         with open(data_file, 'r', encoding='utf-8') as rf, open(output_file, 'w', encoding='utf-8') as wf:
