@@ -2,14 +2,13 @@
 
 ### 更新记录
 
-- [2024/09/20] GPT 4o translation pipelines, tried on some samples, still writing the prompt
+- [2024/09/27] 对所有的翻译sample进行了质量评测，95%翻译准确，5%翻译不准确，给每一条sample附带了翻译的评分情况。使用时可以看情况过滤。
+- [2024/09/20] GPT 4o translation validations
 - [2024/07] GPT 4o (Personal account) testing for new translations
 - [2024/04/26] GPT 4o 个人账户设置好了，算了一下成本还可以接受。准备进行数据更新和生成。
 - [2024/04/26] 增加GPT Provider，为了将后续更多的优质英文数据源翻译成中文数据
 - [2024/04/22] 增加Google翻译的Provider
 
-### TODO
-update source dataset
 
 ### 如何贡献修改
 

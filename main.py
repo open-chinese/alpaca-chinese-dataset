@@ -37,5 +37,23 @@ def merge():
         wf.write(json.dumps(samples, ensure_ascii=False, indent=4))
 
 
+def merge_data_v3():
+    merged_file_path_v3 = './alpaca-chinese-52k-v3.json'
+    split_file_dir_v3 = './data_v3'
+
+    split_files = [join(split_file_dir_v3, file_name) for file_name in listdir(split_file_dir_v3)]
+    samples = []
+    for split_file in split_files:
+        if not split_file.endswith('.json'):
+            continue
+        with open(split_file, 'r', encoding='utf-8') as rf:
+            items = json.load(rf)
+            samples.extend(items)
+    print(len(samples))
+    with open(merged_file_path_v3, 'w', encoding='utf-8') as wf:
+        wf.write(json.dumps(samples, ensure_ascii=False, indent=4))
+
+
 if __name__ == '__main__':
-    merge()  # merge the split file to alpaca-chinese-52k.json
+    # merge()  # merge the split file to alpaca-chinese-52k.json
+    merge_data_v3()
