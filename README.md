@@ -3,6 +3,35 @@
 ### 更新记录
 
 - [2024/09/27] 对所有的翻译sample进行了质量评测，95%翻译准确，5%翻译不准确，给每一条sample附带了翻译的评分情况。使用时可以看情况过滤。
+
+以下是翻译质量分数的实例：
+```json
+{
+        "en_instruction": "List 3 historical events related to the following country",
+        "en_input": "Canada",
+        "en_output": "The three historical events related to Canada are the Dominion of Canada's establishment in 1867, the adoption of the Canadian Flag in 1965, and the signing of the Canada-U.S. Free Trade Agreement in 1988.",
+        "zh_instruction": "列出与以下国家相关的3个历史事件",
+        "zh_input": "加拿大",
+        "zh_output": "与加拿大有关的三个历史事件是1867年加拿大建国，1965年采用加拿大国旗以及加拿大 - 美国签署。1988年的自由贸易协定。",
+        "metadata": {
+            "translated": true,
+            "score": 2
+        }
+    },
+    {
+        "en_instruction": "Compare and contrast the effects of individual and societal performance",
+        "en_input": "",
+        "en_output": "Individual performance is related to the actions and decisions made by individuals while societal performance focuses on the actions and decisions of an entire group or organization. Individual performance is more focused on the needs and goals of the individual while societal performance is based on collective goals. Individual performance can be more easily measured and quantified while measuring the impact of societal performance can be more difficult as it usually involves evaluating the individual components making up the larger picture.",
+        "zh_instruction": "比较和对比个人和社会绩效的影响",
+        "zh_input": "",
+        "zh_output": "个人绩效与个人做出的行动和决定有关，而社会绩效则侧重于整个群体或组织的行动和决策。个人绩效更侧重于个人的需求和目标，而社会绩效则基于集体目标。个人绩效可以更容易地衡量和量化，而衡量社会绩效的影响可能更加困难，因为它通常涉及评估构成大局的单个组成部分。",
+        "metadata": {
+            "translated": true,
+            "score": 5
+        }
+    }
+```
+
 - [2024/09/20] GPT 4o translation validations
 - [2024/07/29] GPT 4o (Personal account) testing for new translations
 - [2024/04/26] GPT 4o 个人账户设置好了，算了一下成本还可以接受。准备进行数据更新和生成。
